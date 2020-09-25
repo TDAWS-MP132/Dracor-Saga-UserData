@@ -1,0 +1,91 @@
+1. Unit Groups and Loading Units
+
+First off, you want to learn how to define a unit within a group.
+
+	UNIT UnitID ClassID Leader Level(Lv,Faction,Autolevel) [X,Y] ItemDrop 0 REDACount REDAList [Item1,Item2,Item3,Item4] AI
+
+UnitID corresponds to the Unit's ID in the character table.
+
+ClassID corresponds to the class ID in the class table.
+
+Leader corresponds to the unit's group leader. This is exclusively used for leader AI in enemy units.
+
+Lv corresponds to the unit's level.
+
+Faction corresponds to the unit's faction. Ally for blue units, Enemy for red units, and NPC for green units.
+
+Autolevel is set to 1 for autolevel and 0 for static level. Static level will load the unit with stats defined only by character and class bases. Autolevel will apply level ups based on class growth rates.
+
+[X,Y] corresponds to the unit's spawn coordinates.
+
+ItemDrop is set to 2 for a droppable item (highlighted in green) and 0 otherwise.
+
+REDACount corresponds to the number of REDAs to be used.
+
+REDAList corresponds to the list of REDAs to be used. REDAs define unit movement immediately after loading - see more information below.
+
+[Item1...] corresponds to the unit's inventory. Note that units can only spawn with a maximum of 4 items. Each item ID refers to the item within the item table.
+
+AI corresponds to the unit's AI. Only used for non-Ally units.
+
+Example:
+
+	UNIT Eirika EirikaLord 0x0 Level(1,Ally,0) [1,2] 0 0 0 0 [Rapier,Vulnerary] NoAI
+
+When you create a unit group, you need to define a label name, and also have a blank UNIT at the end.
+
+	SampleUnitGroup:
+	UNIT Eirika EirikaLord 0x0 Level(1,Ally,0) [1,2] 0 0 0 0 [Rapier,Vulnerary] NoAI
+	UNIT Seth Paladin 0x0 Level(1,Ally,0) [2,2] 0 0 0 0 [SilverLance,SteelSword] NoAI
+	UNIT
+
+Unit groups can contain several units, as the name implies.
+There are several ways to load your unit group.
+
+Use LOAD1 and ENUN when the group is being loaded for the first time (a unit's first appearence or an enemy unit).
+
+	LOAD1 0x1 SampleUnitGroup
+	ENUN
+
+Use LOAD2 and ENUN when the group is not being loaded for the first time (returning party members).
+
+	LOAD2 0x1 SampleUnitGroup
+	ENUN
+
+
+
+1.1 Using REDAs
+
+Usually when you spawn reinforcements you want them to come from a logical location and then move into a new position. You can achieve this using REDAs. Defining one is as follows.
+
+	SampleREDA:
+	REDA [1,2] 0 0 0 0
+
+Note the values in the square brackets correspond to x and y coordinates, [x,y].
+Then you just need to assign it to your unit.
+
+	UNIT EnemyUnit Fighter EnemyBoss Level(1,Enemy,1) [3,4] 0 0 1 SampleREDA [IronAxe] AttackInRangeAI
+
+As you can see, the number of REDAs is set to 1, and the SampleREDA is set to this unit.
+Note that they will move to the location in the REDA and from the location defined as a UNIT.
+In this case, the unit will spawn at [3,4] and move to [1,2].
+
+
+
+1.2 AI definitions
+
+The different AI tpyes are as follows:
+
+NoAI
+PursueWithoutHeedAI
+DefaultAI
+DoNothing
+GuardTileAI
+AttackInRangeAI
+ChaseOnceApproachedAI
+HealUnits
+BrigandAI
+StealingThiefAI
+LootingThiefAI
+MoveWithLeaderAI
+NeverMoveAI

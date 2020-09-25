@@ -1,0 +1,18 @@
+
+{
+	#define UnitID Nebiros
+	#define UnitClass NebirosClass
+	#define UnitMugID NebirosMug
+	#define UnitNameLocation NebirosName
+	#define UnitDescriptionLocation NebirosDescription
+	#define Palette1Number NebirosPalette1
+	#define Palette2Number NebirosPalette2
+	#define Palette3Number NebirosPalette3
+	//#define UseUnitText //Comment out if you want to use text in the text buildfile
+	#include "Files/Support Installer.event"
+	#include "Files/Palette Installer.event"
+	#include "Files/Mug Installer.event"
+	#include "Files/Text Installer.event"
+	#include "Files/Data Installer.event"
+	#include "Files/Undefiner.event"
+}

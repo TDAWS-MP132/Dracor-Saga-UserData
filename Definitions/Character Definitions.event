@@ -1,0 +1,27 @@
+#define Attilio Eirika //UnitID here
+#define AttilioClass EphraimLord //ClassID here
+#define AttilioMug EirikaMug //MugID here
+#define AttilioPalette1 0x0 //PaletteID here
+#define AttilioPalette2 0x0 //PaletteID here
+#define AttilioPalette3 0x0 //PaletteID here
+
+#define Nebiros Seth //UnitID here
+#define NebirosClass Paladin //ClassID here
+#define NebirosMug SethMug //MugID here
+#define NebirosPalette1 0x0 //PaletteID here
+#define NebirosPalette2 0x0 //PaletteID here
+#define NebirosPalette3 0x0 //PaletteID here
+
+#define Belial Gilliam //UnitID here
+#define BelialClass Cavalier //ClassID here
+#define BelialMug GilliamMug //MugID here
+#define BelialPalette1 0x0 //PaletteID here
+#define BelialPalette2 0x0 //PaletteID here
+#define BelialPalette3 0x0 //PaletteID here
+
+#define FolkeBoss ONeill //UnitID here
+#define FolkeBossClass Brigand //ClassID here
+#define FolkeBossMug ONeillMug //MugID here
+#define FolkeBossPalette1 0x0 //PaletteID here
+#define FolkeBossPalette2 0x0 //PaletteID here
+#define FolkeBossPalette3 0x0 //PaletteID here
