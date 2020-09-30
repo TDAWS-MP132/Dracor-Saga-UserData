@@ -11,14 +11,14 @@
 #define WeaponAbilityFour 0x0
 
 //Stats
-#define Durability 40
-#define Might 5
-#define Hit 90
-#define Weight 5
+#define Durability 50
+#define Might 9
+#define Hit 80
+#define Weight 10
 #define Crit 0
 #define Range MeleeRange
-#define CostPerUse 12 //480 total
-#define WeaponRank ERank
+#define CostPerUse 12 //600 Total
+#define WeaponRank DRank
 //#define HasEffectiveness //Uncomment if the weapon is effective
 #define ItemEffectiveness 0 //For the effectiveness rework
 #define WeaponEffect 0

@@ -3,3 +3,27 @@ Iron Sword[X]
 
 ## IronSwordDescription
  [X]
+ 
+## SlimSwordName
+Slim Sword[X]
+
+## SlimSwordDescription
+ [X]
+ 
+## SteelSwordName
+Steel Sword[X]
+
+## SteelSwordDescription
+ [X]
+ 
+## SilverSwordName
+Silver Sword[x]
+
+## SilverSwordDescription
+ [X]
+ 
+## IronBladeName
+Iron Blade[X]
+
+## IronBladeDescription
+ [X]

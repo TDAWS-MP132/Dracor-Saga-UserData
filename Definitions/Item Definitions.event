@@ -1,2 +1,14 @@
 #define IronSwordMagicAnim 0xFF //MagicAnimationID here
 #define IronSwordUseText 0x0 //TextID here
+
+#define SlimSwordMagicAnim 0xFF //MagicAnimationID here
+#define SlimSwordUseText 0x0 //TextID here
+
+#define SteelSwordMagicAnim 0xFF //MagicAnimationID here
+#define SteelSwordUseText 0x0 //TextID here
+
+#define SilverSwordMagicAnim 0xFF //MagicAnimationID here
+#define SilverSwordUseText 0x0 //TextID here
+
+#define IronBladeMagicAnim 0xFF //MagicAnimationID here
+#define IronBladeUseText 0x0 //TextID here

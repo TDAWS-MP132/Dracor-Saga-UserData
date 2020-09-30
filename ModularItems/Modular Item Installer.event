@@ -1,1 +1,9 @@
 #include "Iron Sword/Iron Sword Installer.event"
+
+#include "Slim Sword/Slim Sword Installer.event"
+
+#include "Steel Sword/Steel Sword Installer.event"
+
+#include "Silver Sword/Silver Sword Installer.event"
+
+#include "Iron Blade/Iron Blade Installer.event"

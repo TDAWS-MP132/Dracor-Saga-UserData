@@ -53,6 +53,14 @@ __TEXTPROCESSD56:
 #incbin ".TextEntries\text_buildfileIronSwordDescription.fetxt.dmp"
 setText($D56, __TEXTPROCESSD56)
 
+__TEXTPROCESSD57:
+#incbin ".TextEntries\text_buildfileSlimSwordName.fetxt.dmp"
+setText($D57, __TEXTPROCESSD57)
+
+__TEXTPROCESSD58:
+#incbin ".TextEntries\text_buildfileSlimSwordDescription.fetxt.dmp"
+setText($D58, __TEXTPROCESSD58)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT

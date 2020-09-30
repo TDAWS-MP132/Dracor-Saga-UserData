@@ -15,5 +15,7 @@
 #define FolkeBossDescription $D54
 #define IronSwordName $D55
 #define IronSwordDescription $D56
+#define SlimSwordName $D57
+#define SlimSwordDescription $D58
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT
