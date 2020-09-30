@@ -13,5 +13,7 @@
 #define BelialDescription $D52
 #define FolkeBossName $D53
 #define FolkeBossDescription $D54
+#define IronSwordName $D55
+#define IronSwordDescription $D56
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

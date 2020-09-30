@@ -1,0 +1,31 @@
+##AttilioName
+Attilio[X]
+
+##AttilioDescription
+An heir of Auresco displaced[N]
+from his home. He has strong[N]
+senses of duty and compassion.[X]
+
+##NebirosName
+Nebiros[X]
+
+##NebirosDescription
+A senior knight of Auresco.[N]
+His relationship with his liege is[N]
+like that of a father and son.[X]
+
+##BelialName
+Belial[X]
+
+##BelialDescription
+Nebiros' current and only[N]
+remaining squire. Dutiful and[N]
+reserved but loves animals.[X]
+
+##FolkeBossName
+Folke[X]
+
+##FolkeBossDescription
+A somewhat slow witted but[N]
+jovial lumberjack forced to[N]
+turn to crime to make ends meet.[X]
