@@ -15,3 +15,6 @@
 {
 #include "Ch1.event"
 }
+{
+#include "Ch3.event"
+}
