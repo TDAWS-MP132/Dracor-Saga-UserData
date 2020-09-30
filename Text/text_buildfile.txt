@@ -22,7 +22,7 @@ Belial[X]
 
 ##BelialDescription
 Nebiros' current and only[N]
-remaining squire.Dutiful and[N]
+remaining squire. Dutiful and[N]
 reserved but loves animals.[X]
 
 ##FolkeBossName
