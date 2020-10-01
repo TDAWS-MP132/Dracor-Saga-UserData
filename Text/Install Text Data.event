@@ -61,6 +61,54 @@ __TEXTPROCESSD58:
 #incbin ".TextEntries\text_buildfileSlimSwordDescription.fetxt.dmp"
 setText($D58, __TEXTPROCESSD58)
 
+__TEXTPROCESSD59:
+#incbin ".TextEntries\text_buildfileSteelSwordName.fetxt.dmp"
+setText($D59, __TEXTPROCESSD59)
+
+__TEXTPROCESSD5A:
+#incbin ".TextEntries\text_buildfileSteelSwordDescription.fetxt.dmp"
+setText($D5A, __TEXTPROCESSD5A)
+
+__TEXTPROCESSD5B:
+#incbin ".TextEntries\text_buildfileSilverSwordName.fetxt.dmp"
+setText($D5B, __TEXTPROCESSD5B)
+
+__TEXTPROCESSD5C:
+#incbin ".TextEntries\text_buildfileSilverSwordDescription.fetxt.dmp"
+setText($D5C, __TEXTPROCESSD5C)
+
+__TEXTPROCESSD5D:
+#incbin ".TextEntries\text_buildfileIronBladeName.fetxt.dmp"
+setText($D5D, __TEXTPROCESSD5D)
+
+__TEXTPROCESSD5E:
+#incbin ".TextEntries\text_buildfileIronBladeDescription.fetxt.dmp"
+setText($D5E, __TEXTPROCESSD5E)
+
+__TEXTPROCESSD5F:
+#incbin ".TextEntries\text_buildfileSteelBladeName.fetxt.dmp"
+setText($D5F, __TEXTPROCESSD5F)
+
+__TEXTPROCESSD60:
+#incbin ".TextEntries\text_buildfileSteelBladeDescription.fetxt.dmp"
+setText($D60, __TEXTPROCESSD60)
+
+__TEXTPROCESSD61:
+#incbin ".TextEntries\text_buildfileSilverBladeName.fetxt.dmp"
+setText($D61, __TEXTPROCESSD61)
+
+__TEXTPROCESSD62:
+#incbin ".TextEntries\text_buildfileSilverBladeDescription.fetxt.dmp"
+setText($D62, __TEXTPROCESSD62)
+
+__TEXTPROCESSD63:
+#incbin ".TextEntries\text_buildfileRapierName.fetxt.dmp"
+setText($D63, __TEXTPROCESSD63)
+
+__TEXTPROCESSD64:
+#incbin ".TextEntries\text_buildfileRapierDescription.fetxt.dmp"
+setText($D64, __TEXTPROCESSD64)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT

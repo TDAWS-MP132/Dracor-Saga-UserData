@@ -17,7 +17,7 @@ Steel Sword[X]
  [X]
  
 ## SilverSwordName
-Silver Sword[x]
+Silver Sword[X]
 
 ## SilverSwordDescription
  [X]
@@ -27,3 +27,27 @@ Iron Blade[X]
 
 ## IronBladeDescription
  [X]
+ 
+## SteelBladeName
+Steel Blade[X]
+
+## SteelBladeDescription
+ [X]
+ 
+## SilverBladeName
+Silver Blade[X]
+
+## SilverBladeDescription
+ [X]
+ 
+## RapierName
+Rapier[X]
+
+## RapierDescription
+Eff. vs Mounts and Armor[X]
+
+
+
+
+
+

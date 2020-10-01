@@ -12,3 +12,12 @@
 
 #define IronBladeMagicAnim 0xFF //MagicAnimationID here
 #define IronBladeUseText 0x0 //TextID here
+
+#define SteelBladeMagicAnim 0xFF //MagicAnimationID here
+#define SteelBladeUseText 0x0 //TextID here
+
+#define SilverBladeMagicAnim 0xFF //MagicAnimationID here
+#define SilverBladeUseText 0x0 //TextID here
+
+#define RapierMagicAnim 0xFF //MagicAnimationID here
+#define RapierUseText 0x0 //TextID here

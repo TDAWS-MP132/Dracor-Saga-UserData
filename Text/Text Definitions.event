@@ -17,5 +17,17 @@
 #define IronSwordDescription $D56
 #define SlimSwordName $D57
 #define SlimSwordDescription $D58
+#define SteelSwordName $D59
+#define SteelSwordDescription $D5A
+#define SilverSwordName $D5B
+#define SilverSwordDescription $D5C
+#define IronBladeName $D5D
+#define IronBladeDescription $D5E
+#define SteelBladeName $D5F
+#define SteelBladeDescription $D60
+#define SilverBladeName $D61
+#define SilverBladeDescription $D62
+#define RapierName $D63
+#define RapierDescription $D64
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

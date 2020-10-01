@@ -7,3 +7,9 @@
 #include "Silver Sword/Silver Sword Installer.event"
 
 #include "Iron Blade/Iron Blade Installer.event"
+
+#include "Steel Blade/Steel Blade Installer.event"
+
+#include "Silver Blade/Silver Blade Installer.event"
+
+#include "Rapier/Rapier Installer.event"
