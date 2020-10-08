@@ -46,6 +46,17 @@ Rapier[X]
 ## RapierDescription
 Eff. vs Mounts and Armor[X]
 
+## BraveSwordName
+Brave Sword[X]
+
+## BraveSwordDescription
+X2 Strikes, Consecutively[X]
+
+## ShamshirName
+Shamshir[X]
+
+## ShamshirDescription
+[X]
 
 
 

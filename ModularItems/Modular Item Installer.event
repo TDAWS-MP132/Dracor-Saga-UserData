@@ -1,15 +1,19 @@
-#include "Iron Sword/Iron Sword Installer.event"
+#include "Swords/Iron Sword/Iron Sword Installer.event"
 
-#include "Slim Sword/Slim Sword Installer.event"
+#include "Swords/Slim Sword/Slim Sword Installer.event"
 
-#include "Steel Sword/Steel Sword Installer.event"
+#include "Swords/Steel Sword/Steel Sword Installer.event"
 
-#include "Silver Sword/Silver Sword Installer.event"
+#include "Swords/Silver Sword/Silver Sword Installer.event"
 
-#include "Iron Blade/Iron Blade Installer.event"
+#include "Swords/Iron Blade/Iron Blade Installer.event"
 
-#include "Steel Blade/Steel Blade Installer.event"
+#include "Swords/Steel Blade/Steel Blade Installer.event"
 
-#include "Silver Blade/Silver Blade Installer.event"
+#include "Swords/Silver Blade/Silver Blade Installer.event"
 
-#include "Rapier/Rapier Installer.event"
+#include "Swords/Rapier/Rapier Installer.event"
+
+#include "Swords/Brave Sword/Brave Sword Installer.event"
+
+#include "Swords/Shamshir/Shamshir Installer.event"

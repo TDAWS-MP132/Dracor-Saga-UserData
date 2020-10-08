@@ -21,3 +21,9 @@
 
 #define RapierMagicAnim 0xFF //MagicAnimationID here
 #define RapierUseText 0x0 //TextID here
+
+#define BraveSwordMagicAnim 0xFF //MagicAnimationID here
+#define BraveSwordUseText 0x0 //TextID here
+
+#define ShamshirMagicAnim 0xFF //MagicAnimationID here
+#define ShamshirUseText 0x0//TextID here

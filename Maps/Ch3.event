@@ -8,11 +8,10 @@ Map:
 #incbin "Ch3_data.dmp"
 
 MapChanges:
-TileMap(9,3,15,1,1,Chest_4)
-TileMap(8,5,14,1,2,Cracked_Wall3)
-TileMap(7,4,14,1,1,Chest_3)
-TileMap(6,1,12,2,1,Door3)
-TileMap(5,9,7,1,2,CrackedWall2)
+TileMap(8,3,15,1,1,Chest_4)
+TileMap(7,5,14,1,2,Cracked_Wall2)
+TileMap(6,4,14,1,1,Chest_3)
+TileMap(5,1,12,2,1,Door3)
 TileMap(4,2,7,1,2,CrackedWall1)
 TileMap(3,13,6,2,1,Door2)
 TileMap(2,13,4,1,1,Chest2)
@@ -24,7 +23,7 @@ Chest_4:
 SHORT 0x100 
 ALIGN 4
 
-Cracked_Wall3:
+Cracked_Wall2:
 SHORT 0xa38 0x71c 
 ALIGN 4
 
@@ -34,10 +33,6 @@ ALIGN 4
 
 Door3:
 SHORT 0x838 0x838 
-ALIGN 4
-
-CrackedWall2:
-SHORT 0xcb8 0x840 
 ALIGN 4
 
 CrackedWall1:
