@@ -1,0 +1,14 @@
+
+{
+	#define ItemNumber Lancereaver
+	#define ItemIcon LancereaverIcon
+	#define ItemMagicAnimation LancereaverMagicAnim
+	#define ItemNameLocation LancereaverName
+	#define ItemDescriptionLocation LancereaverDescription
+	#define ItemUseTextLocation LancereaverUseText
+	//#define UseItemText //Comment out if you want to use text in the text buildfile
+	#include "Files/Graphics Installer.event"
+	#include "Files/Text Installer.event"
+	#include "Files/Data Installer.event"
+	#include "Files/Undefiner.event"
+}

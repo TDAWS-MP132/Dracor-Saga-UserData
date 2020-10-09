@@ -56,9 +56,46 @@ X2 Strikes, Consecutively[X]
 Shamshir[X]
 
 ## ShamshirDescription
-[X]
+ [X]
 
+## KillingEdgeName
+Killing Edge[X]
 
+## KillingEdgeDescription
+ [X]
 
+## ArmorslayerName
+Armorslayer[X]
 
+## ArmorslayerDescription
+Eff. vs Armor and Scale[X]
 
+## LancereaverName
+Lancereaver[X]
+
+## LancereaverDescription
+Reverses the Weapon Triangle[X]
+
+## ZanbatoName
+Zanbato[X]
+
+## ZanbatoDescription
+Eff. vs Cavalry and Pegasi[X]
+
+## IronSpearName
+Iron Spear[X]
+
+## IronSpearDescription
+ [X]
+ 
+## SteelSpearName
+Steel Spear[X]
+
+## SteelSpearDescription
+ [X]
+
+## SilverSpearName
+Silver Spear[X]
+
+## SilverSpearDescription
+ [X]

@@ -1,3 +1,4 @@
+//Swords
 #define IronSwordMagicAnim 0xFF //MagicAnimationID here
 #define IronSwordUseText 0x0 //TextID here
 
@@ -27,3 +28,31 @@
 
 #define ShamshirMagicAnim 0xFF //MagicAnimationID here
 #define ShamshirUseText 0x0//TextID here
+
+#define KillingEdgeMagicAnim 0xFF //MagicAnimationID here
+#define KillingEdgeUseText 0x0 //TextID here
+
+#define ArmorslayerMagicAnim 0xFF //MagicAnimationID here
+#define ArmorslayerUseText 0x0 //TextID here
+
+#define LancereaverMagicAnim 0xFF //MagicAnimationID here
+#define LancereaverUseText 0x0 //TextID here
+
+#define ZanbatoMagicAnim 0xFF //MagicAnimationID here
+#define ZanbatoUseText 0x0 //TextID here
+
+//Lances
+#define IronSpear IronLance //ItemID here
+#define IronSpearMagicAnim 0xFF //MagicAnimationID here
+#define IronSpearIcon (IronLance-1) //ItemIconID here
+#define IronSpearUseText 0x0 //TextID here
+
+#define SteelSpear SteelLance //ItemID here
+#define SteelSpearMagicAnim 0xFF //MagicAnimationID here
+#define SteelSpearIcon (SteelLance-1) //ItemIconID here
+#define SteelSpearUseText 0x0 //TextID here
+
+#define SilverSpear SilverLance //ItemID here
+#define SilverSpearMagicAnim 0xFF //MagicAnimationID here
+#define SilverSpearIcon (SilverLance-1) //ItemIconID here
+#define SilverSpearUseText 0x0 //TextID here

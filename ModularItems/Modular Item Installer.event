@@ -1,3 +1,5 @@
+//Swords
+
 #include "Swords/Iron Sword/Iron Sword Installer.event"
 
 #include "Swords/Slim Sword/Slim Sword Installer.event"
@@ -17,3 +19,23 @@
 #include "Swords/Brave Sword/Brave Sword Installer.event"
 
 #include "Swords/Shamshir/Shamshir Installer.event"
+
+#include "Swords/Killing Edge/Killing Edge Installer.event"
+
+#include "Swords/Armorslayer/Armorslayer Installer.event"
+
+#include "Swords/Lancereaver/Lancereaver Installer.event"
+
+#include "Swords/Zanbato/Zanbato Installer.event"
+
+//Lances
+
+#include "Lances/Iron Spear/Iron Spear Installer.event"
+
+#include "Lances/Steel Spear/Steel Spear Installer.event"
+
+#include "Lances/Silver Spear/Silver Spear Installer.event"
+
+//Axes
+
+//Bows

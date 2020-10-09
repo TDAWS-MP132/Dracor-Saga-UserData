@@ -12,13 +12,13 @@
 
 //Stats
 #define Durability 20
-#define Might 3
-#define Hit 85
-#define Weight 3
-#define Crit 40
+#define Might 5
+#define Hit 75
+#define Weight 7
+#define Crit 25
 #define Range MeleeRange
-#define CostPerUse 38 //Total 760
-#define WeaponRank DRank
+#define CostPerUse 45 //Total 900
+#define WeaponRank CRank
 //#define HasEffectiveness //Uncomment if the weapon is effective
 #define ItemEffectiveness 0 //For the effectiveness rework
 #define WeaponEffect 0

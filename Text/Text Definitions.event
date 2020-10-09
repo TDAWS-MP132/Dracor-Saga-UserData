@@ -29,5 +29,23 @@
 #define SilverBladeDescription $D62
 #define RapierName $D63
 #define RapierDescription $D64
+#define BraveSwordName $D65
+#define BraveSwordDescription $D66
+#define ShamshirName $D67
+#define ShamshirDescription $D68
+#define KillingEdgeName $D69
+#define KillingEdgeDescription $D6A
+#define ArmorslayerName $D6B
+#define ArmorslayerDescription $D6C
+#define LancereaverName $D6D
+#define LancereaverDescription $D6E
+#define ZanbatoName $D6F
+#define ZanbatoDescription $D70
+#define IronSpearName $D71
+#define IronSpearDescription $D72
+#define SteelSpearName $D73
+#define SteelSpearDescription $D74
+#define SilverSpearName $D75
+#define SilverSpearDescription $D76
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT
