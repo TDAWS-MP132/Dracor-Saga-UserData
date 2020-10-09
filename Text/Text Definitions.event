@@ -63,5 +63,11 @@
 #define HorseslayerDescription $D84
 #define HeavySpearName $D85
 #define HeavySpearDescription $D86
+#define IronGLanceName $D87
+#define IronGLanceDescription $D88
+#define SteelGLanceName $D89
+#define SteelGLanceDescription $D8A
+#define SilverGLanceName $D8B
+#define SilverGLanceDescription $D8C
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

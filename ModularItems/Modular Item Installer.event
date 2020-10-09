@@ -52,6 +52,12 @@
 
 #include "Lances/Heavy Spear/Heavy Spear Installer.event"
 
+#include "Lances/Iron Lance/Iron Lance Installer.event"
+
+#include "Lances/Steel Lance/Steel Lance Installer.event"
+
+#include "Lances/Silver Lance/Silver Lance Installer.event"
+
 //Axes
 
 //Bows

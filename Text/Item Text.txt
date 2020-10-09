@@ -148,6 +148,20 @@ Heavy Spear[X]
 ## HeavySpearDescription
 Eff. vs Armor and Scales[X]
 
+## IronGLanceName
+Iron Lance[X]
 
+##IronGLanceDescription
+ [X]
+
+## SteelGLanceName
+Steel Lance[X]
+
+##SteelGLanceDescription
+ [X]
  
- 
+## SilverGLanceName
+Silver Lance[X]
+
+##SilverGLanceDescription
+ [X]

@@ -1,0 +1,14 @@
+
+{
+	#define ItemNumber SilverGLance
+	#define ItemIcon SilverGLanceIcon
+	#define ItemMagicAnimation SilverGLanceMagicAnim
+	#define ItemNameLocation SilverGLanceName
+	#define ItemDescriptionLocation SilverGLanceDescription
+	#define ItemUseTextLocation SilverGLanceUseText
+	//#define UseItemText //Comment out if you want to use text in the text buildfile
+	#include "Files/Graphics Installer.event"
+	#include "Files/Text Installer.event"
+	#include "Files/Data Installer.event"
+	#include "Files/Undefiner.event"
+}

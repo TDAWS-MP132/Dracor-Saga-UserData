@@ -83,8 +83,20 @@
 #define HeavySpearMagicAnim 0xFF //MagicAnimationID here
 #define HeavySpearUseText 0x0 //TextID here
 
+#define IronGLance 0xBD //ItemID here
+#define IronGLanceMagicAnim 0xFF //MagicAnimationID here
+#define IronGLanceIcon (IronGLance-1) //ItemIconID here
+#define IronGLanceUseText 0x0 //TextID here
 
+#define SteelGLance 0xBE //ItemID here
+#define SteelGLanceMagicAnim 0xFF //MagicAnimationID here
+#define SteelGLanceIcon (SteelGLance-1) //ItemIconID here
+#define SteelGLanceUseText 0x0 //TextID here
 
+#define SilverGLance 0xBF //ItemID here
+#define SilverGLanceMagicAnim 0xFF //MagicAnimationID here
+#define SilverGLanceIcon (SilverGLance-1) //ItemIconID here
+#define SilverGLanceUseText 0x0 //TextID here
 
 
 

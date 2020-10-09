@@ -245,6 +245,30 @@ __TEXTPROCESSD86:
 #incbin ".TextEntries\text_buildfileHeavySpearDescription.fetxt.dmp"
 setText($D86, __TEXTPROCESSD86)
 
+__TEXTPROCESSD87:
+#incbin ".TextEntries\text_buildfileIronGLanceName.fetxt.dmp"
+setText($D87, __TEXTPROCESSD87)
+
+__TEXTPROCESSD88:
+#incbin ".TextEntries\text_buildfileIronGLanceDescription.fetxt.dmp"
+setText($D88, __TEXTPROCESSD88)
+
+__TEXTPROCESSD89:
+#incbin ".TextEntries\text_buildfileSteelGLanceName.fetxt.dmp"
+setText($D89, __TEXTPROCESSD89)
+
+__TEXTPROCESSD8A:
+#incbin ".TextEntries\text_buildfileSteelGLanceDescription.fetxt.dmp"
+setText($D8A, __TEXTPROCESSD8A)
+
+__TEXTPROCESSD8B:
+#incbin ".TextEntries\text_buildfileSilverGLanceName.fetxt.dmp"
+setText($D8B, __TEXTPROCESSD8B)
+
+__TEXTPROCESSD8C:
+#incbin ".TextEntries\text_buildfileSilverGLanceDescription.fetxt.dmp"
+setText($D8C, __TEXTPROCESSD8C)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT
