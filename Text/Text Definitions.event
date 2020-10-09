@@ -69,5 +69,11 @@
 #define SteelGLanceDescription $D8A
 #define SilverGLanceName $D8B
 #define SilverGLanceDescription $D8C
+#define IronAxeName $D8D
+#define IronAxeDescription $D8E
+#define SteelAxeName $D8F
+#define SteelAxeDescription $D90
+#define SilverAxeName $D91
+#define SilverAxeDescription $D92
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

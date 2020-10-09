@@ -1,0 +1,14 @@
+
+{
+	#define ItemNumber SteelAxe
+	#define ItemIcon SteelAxeIcon
+	#define ItemMagicAnimation SteelAxeMagicAnim
+	#define ItemNameLocation SteelAxeName
+	#define ItemDescriptionLocation SteelAxeDescription
+	#define ItemUseTextLocation SteelAxeUseText
+	//#define UseItemText //Comment out if you want to use text in the text buildfile
+	#include "Files/Graphics Installer.event"
+	#include "Files/Text Installer.event"
+	#include "Files/Data Installer.event"
+	#include "Files/Undefiner.event"
+}

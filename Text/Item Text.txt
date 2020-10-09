@@ -165,3 +165,23 @@ Silver Lance[X]
 
 ##SilverGLanceDescription
  [X]
+ 
+##IronAxeName
+Iron Axe[X]
+
+##IronAxeDescription
+ [X]
+ 
+##SteelAxeName
+Steel Axe[X]
+
+##SteelAxeDescription
+ [X]
+ 
+##SilverAxeName
+Silver Axe[X]
+
+##SilverAxeDescription
+ [X]
+
+

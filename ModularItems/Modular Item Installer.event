@@ -60,4 +60,21 @@
 
 //Axes
 
+#include "Axes/Iron Axe/Iron Axe Installer.event"
+
+#include "Axes/Steel Axe/Steel Axe Installer.event"
+
+#include "Axes/Silver Axe/Silver Axe Installer.event"
+
+
+
+
+
+
+
+
+
+
+
+
 //Bows

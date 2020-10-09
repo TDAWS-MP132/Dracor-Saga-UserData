@@ -98,5 +98,16 @@
 #define SilverGLanceIcon (SilverGLance-1) //ItemIconID here
 #define SilverGLanceUseText 0x0 //TextID here
 
+//Axes
+#define IronAxeMagicAnim 0xFF //MagicAnimationID here
+#define IronAxeUseText 0x0 //TextID here
+
+#define SteelAxeMagicAnim 0xFF //MagicAnimationID here
+#define SteelAxeUseText 0x0 //TextID here
+
+#define SilverAxeMagicAnim 0xFF //MagicAnimationID here
+#define SilverAxeUseText 0x0 //TextID here
+
+
 
 
