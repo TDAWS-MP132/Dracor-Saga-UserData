@@ -47,5 +47,11 @@
 #define SteelSpearDescription $D74
 #define SilverSpearName $D75
 #define SilverSpearDescription $D76
+#define SlimSpearName $D77
+#define SlimSpearDescription $D78
+#define JavelinName $D79
+#define JavelinDescription $D7A
+#define ShortSpearName $D7B
+#define ShortSpearDescription $D7C
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

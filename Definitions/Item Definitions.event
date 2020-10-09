@@ -56,3 +56,15 @@
 #define SilverSpearMagicAnim 0xFF //MagicAnimationID here
 #define SilverSpearIcon (SilverLance-1) //ItemIconID here
 #define SilverSpearUseText 0x0 //TextID here
+
+#define SlimSpear SlimLance //ItemID here
+#define SlimSpearMagicAnim 0xFF //MagicAnimationID here
+#define SlimSpearIcon (SlimLance-1) //ItemIconID here
+#define SlimSpearUseText 0x0 //TextID here
+
+#define JavelinMagicAnim 0xFF //MagicAnimationID here
+#define JavelinUseText 0x0 //TextID here
+
+#define ShortSpearMagicAnim 0xFF //MagicAnimationID here
+#define ShortSpearUseText 0x0 //TextID here
+

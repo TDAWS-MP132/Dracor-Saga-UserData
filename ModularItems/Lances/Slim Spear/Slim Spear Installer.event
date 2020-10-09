@@ -1,0 +1,14 @@
+
+{
+	#define ItemNumber SlimSpear
+	#define ItemIcon SlimSpearIcon
+	#define ItemMagicAnimation SlimSpearMagicAnim
+	#define ItemNameLocation SlimSpearName
+	#define ItemDescriptionLocation SlimSpearDescription
+	#define ItemUseTextLocation SlimSpearUseText
+	//#define UseItemText //Comment out if you want to use text in the text buildfile
+	#include "Files/Graphics Installer.event"
+	#include "Files/Text Installer.event"
+	#include "Files/Data Installer.event"
+	#include "Files/Undefiner.event"
+}

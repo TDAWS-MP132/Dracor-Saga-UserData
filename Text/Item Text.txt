@@ -99,3 +99,23 @@ Silver Spear[X]
 
 ## SilverSpearDescription
  [X]
+ 
+## SlimSpearName
+Slim Spear[X]
+
+## SlimSpearDescription
+ [X]
+ 
+## JavelinName
+Javelin[X]
+
+## JavelinDescription
+ [X]
+ 
+## ShortSpearName
+Short Spear[X]
+
+## ShortSpearDescription
+ [X]
+ 
+ 

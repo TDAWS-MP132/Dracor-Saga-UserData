@@ -36,6 +36,12 @@
 
 #include "Lances/Silver Spear/Silver Spear Installer.event"
 
+#include "Lances/Slim Spear/Slim Spear Installer.event"
+
+#include "Lances/Javelin/Javelin Installer.event"
+
+#include "Lances/Short Spear/Short Spear Installer.event"
+
 //Axes
 
 //Bows

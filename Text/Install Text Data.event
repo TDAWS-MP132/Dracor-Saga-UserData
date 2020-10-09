@@ -181,6 +181,30 @@ __TEXTPROCESSD76:
 #incbin ".TextEntries\text_buildfileSilverSpearDescription.fetxt.dmp"
 setText($D76, __TEXTPROCESSD76)
 
+__TEXTPROCESSD77:
+#incbin ".TextEntries\text_buildfileSlimSpearName.fetxt.dmp"
+setText($D77, __TEXTPROCESSD77)
+
+__TEXTPROCESSD78:
+#incbin ".TextEntries\text_buildfileSlimSpearDescription.fetxt.dmp"
+setText($D78, __TEXTPROCESSD78)
+
+__TEXTPROCESSD79:
+#incbin ".TextEntries\text_buildfileJavelinName.fetxt.dmp"
+setText($D79, __TEXTPROCESSD79)
+
+__TEXTPROCESSD7A:
+#incbin ".TextEntries\text_buildfileJavelinDescription.fetxt.dmp"
+setText($D7A, __TEXTPROCESSD7A)
+
+__TEXTPROCESSD7B:
+#incbin ".TextEntries\text_buildfileShortSpearName.fetxt.dmp"
+setText($D7B, __TEXTPROCESSD7B)
+
+__TEXTPROCESSD7C:
+#incbin ".TextEntries\text_buildfileShortSpearDescription.fetxt.dmp"
+setText($D7C, __TEXTPROCESSD7C)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT
