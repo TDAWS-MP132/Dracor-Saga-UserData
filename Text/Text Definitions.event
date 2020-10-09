@@ -53,5 +53,15 @@
 #define JavelinDescription $D7A
 #define ShortSpearName $D7B
 #define ShortSpearDescription $D7C
+#define AxereaverName $D7D
+#define AxereaverDescription $D7E
+#define KillerLanceName $D7F
+#define KillerLanceDescription $D80
+#define BraveLanceName $D81
+#define BraveLanceDescription $D82
+#define HorseslayerName $D83
+#define HorseslayerDescription $D84
+#define HeavySpearName $D85
+#define HeavySpearDescription $D86
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

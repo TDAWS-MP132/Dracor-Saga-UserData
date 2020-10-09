@@ -205,6 +205,46 @@ __TEXTPROCESSD7C:
 #incbin ".TextEntries\text_buildfileShortSpearDescription.fetxt.dmp"
 setText($D7C, __TEXTPROCESSD7C)
 
+__TEXTPROCESSD7D:
+#incbin ".TextEntries\text_buildfileAxereaverName.fetxt.dmp"
+setText($D7D, __TEXTPROCESSD7D)
+
+__TEXTPROCESSD7E:
+#incbin ".TextEntries\text_buildfileAxereaverDescription.fetxt.dmp"
+setText($D7E, __TEXTPROCESSD7E)
+
+__TEXTPROCESSD7F:
+#incbin ".TextEntries\text_buildfileKillerLanceName.fetxt.dmp"
+setText($D7F, __TEXTPROCESSD7F)
+
+__TEXTPROCESSD80:
+#incbin ".TextEntries\text_buildfileKillerLanceDescription.fetxt.dmp"
+setText($D80, __TEXTPROCESSD80)
+
+__TEXTPROCESSD81:
+#incbin ".TextEntries\text_buildfileBraveLanceName.fetxt.dmp"
+setText($D81, __TEXTPROCESSD81)
+
+__TEXTPROCESSD82:
+#incbin ".TextEntries\text_buildfileBraveLanceDescription.fetxt.dmp"
+setText($D82, __TEXTPROCESSD82)
+
+__TEXTPROCESSD83:
+#incbin ".TextEntries\text_buildfileHorseslayerName.fetxt.dmp"
+setText($D83, __TEXTPROCESSD83)
+
+__TEXTPROCESSD84:
+#incbin ".TextEntries\text_buildfileHorseslayerDescription.fetxt.dmp"
+setText($D84, __TEXTPROCESSD84)
+
+__TEXTPROCESSD85:
+#incbin ".TextEntries\text_buildfileHeavySpearName.fetxt.dmp"
+setText($D85, __TEXTPROCESSD85)
+
+__TEXTPROCESSD86:
+#incbin ".TextEntries\text_buildfileHeavySpearDescription.fetxt.dmp"
+setText($D86, __TEXTPROCESSD86)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT

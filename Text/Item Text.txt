@@ -68,7 +68,7 @@ Killing Edge[X]
 Armorslayer[X]
 
 ## ArmorslayerDescription
-Eff. vs Armor and Scale[X]
+Eff. vs Armor and Scales[X]
 
 ## LancereaverName
 Lancereaver[X]
@@ -117,5 +117,37 @@ Short Spear[X]
 
 ## ShortSpearDescription
  [X]
+ 
+## AxereaverName
+Axereaver[X]
+
+## AxereaverDescription
+Reverses the Weapon Triangle[X]
+
+## KillerLanceName
+Killer Lance[X]
+
+## KillerLanceDescription
+ [X]
+
+## BraveLanceName
+Brave Lance[X]
+
+## BraveLanceDescription
+X2 Strikes, Consecutively[X]
+
+## HorseslayerName
+Horseslayer[X]
+
+## HorseslayerDescription
+Eff. vs Cavalry and Pegasi[X]
+
+## HeavySpearName
+Heavy Spear[X]
+
+## HeavySpearDescription
+Eff. vs Armor and Scales[X]
+
+
  
  

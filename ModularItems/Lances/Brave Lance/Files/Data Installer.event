@@ -12,9 +12,9 @@
 
 //Stats
 #define Durability 20
-#define Might 8
-#define Hit 70
-#define Weight 14
+#define Might 10
+#define Hit 65
+#define Weight 16
 #define Crit 0
 #define Range MeleeRange
 #define CostPerUse 60 //Total 1200

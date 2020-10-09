@@ -2,23 +2,23 @@
 #define ItemName ItemNameLocation
 #define ItemDescription ItemDescriptionLocation
 #define UseDescription ItemUseTextLocation
-#define ItemWeaponType 0x0
+#define ItemWeaponType Lance
 
 //Weapon Abilities
-#define WeaponAbilityOne IsWeapon|IsBrave
-#define WeaponAbilityTwo 0x0
+#define WeaponAbilityOne IsWeapon
+#define WeaponAbilityTwo ReverseTriangle
 #define WeaponAbilityThree 0x0
 #define WeaponAbilityFour 0x0
 
 //Stats
 #define Durability 20
-#define Might 8
+#define Might 9
 #define Hit 70
-#define Weight 14
+#define Weight 9
 #define Crit 0
 #define Range MeleeRange
-#define CostPerUse 60 //Total 1200
-#define WeaponRank ARank
+#define CostPerUse 40 //Total 800
+#define WeaponRank CRank
 //#define HasEffectiveness //Uncomment if the weapon is effective
 #define ItemEffectiveness 0 //For the effectiveness rework
 #define WeaponEffect 0

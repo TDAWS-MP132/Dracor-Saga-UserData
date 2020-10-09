@@ -42,6 +42,16 @@
 
 #include "Lances/Short Spear/Short Spear Installer.event"
 
+#include "Lances/Axereaver/Axereaver Installer.event"
+
+#include "Lances/Killer Lance/Killer Lance Installer.event"
+
+#include "Lances/Brave Lance/Brave Lance Installer.event"
+
+#include "Lances/Horseslayer/Horseslayer Installer.event"
+
+#include "Lances/Heavy Spear/Heavy Spear Installer.event"
+
 //Axes
 
 //Bows

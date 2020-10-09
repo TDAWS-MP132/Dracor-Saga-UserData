@@ -68,3 +68,23 @@
 #define ShortSpearMagicAnim 0xFF //MagicAnimationID here
 #define ShortSpearUseText 0x0 //TextID here
 
+#define AxereaverMagicAnim 0xFF //MagicAnimationID here
+#define AxereaverUseText 0x0 //TextID here
+
+#define KillerLanceMagicAnim 0xFF //MagicAnimationID here
+#define KillerLanceUseText 0x0 //TextID here
+
+#define BraveLanceMagicAnim 0xFF //MagicAnimationID here
+#define BraveLanceUseText 0x0 //TextID here
+
+#define HorseslayerMagicAnim 0xFF //MagicAnimationID here
+#define HorseslayerUseText 0x0 //TextID here
+
+#define HeavySpearMagicAnim 0xFF //MagicAnimationID here
+#define HeavySpearUseText 0x0 //TextID here
+
+
+
+
+
+
