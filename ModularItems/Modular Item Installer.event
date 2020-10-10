@@ -84,4 +84,10 @@
 
 #include "Axes/Devil Axe/Devil Axe Installer.event"
 
+#include "Axes/Iron Poleaxe/Iron Poleaxe Installer.event"
+
+#include "Axes/Steel Poleaxe/Steel Poleaxe Installer.event"
+
+#include "Axes/Silver Poleaxe/Silver Poleaxe Installer.event"
+
 //Bows

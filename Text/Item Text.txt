@@ -238,3 +238,24 @@ Devil Axe[X]
 ## DevilAxeDescription
 May Injure Wielder[X]
 
+## IronPoleaxeName
+Iron Poleaxe[X]
+
+## IronPoleaxeDescription
+ [X]
+ 
+## SteelPoleaxeName
+Steel Poleaxe[X]
+
+## SteelPoleaxeDescription
+ [X]
+
+## SilverPoleaxeName
+Silver Poleaxe[X]
+
+## SilverPoleaxeDescription
+ [X]
+
+
+
+

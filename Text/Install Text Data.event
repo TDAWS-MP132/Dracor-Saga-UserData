@@ -365,6 +365,30 @@ __TEXTPROCESSDA4:
 #incbin ".TextEntries\text_buildfileDevilAxeDescription.fetxt.dmp"
 setText($DA4, __TEXTPROCESSDA4)
 
+__TEXTPROCESSDA5:
+#incbin ".TextEntries\text_buildfileIronPoleaxeName.fetxt.dmp"
+setText($DA5, __TEXTPROCESSDA5)
+
+__TEXTPROCESSDA6:
+#incbin ".TextEntries\text_buildfileIronPoleaxeDescription.fetxt.dmp"
+setText($DA6, __TEXTPROCESSDA6)
+
+__TEXTPROCESSDA7:
+#incbin ".TextEntries\text_buildfileSteelPoleaxeName.fetxt.dmp"
+setText($DA7, __TEXTPROCESSDA7)
+
+__TEXTPROCESSDA8:
+#incbin ".TextEntries\text_buildfileSteelPoleaxeDescription.fetxt.dmp"
+setText($DA8, __TEXTPROCESSDA8)
+
+__TEXTPROCESSDA9:
+#incbin ".TextEntries\text_buildfileSilverPoleaxeName.fetxt.dmp"
+setText($DA9, __TEXTPROCESSDA9)
+
+__TEXTPROCESSDAA:
+#incbin ".TextEntries\text_buildfileSilverPoleaxeDescription.fetxt.dmp"
+setText($DAA, __TEXTPROCESSDAA)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT

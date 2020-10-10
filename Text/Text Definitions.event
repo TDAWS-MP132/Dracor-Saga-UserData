@@ -93,5 +93,11 @@
 #define HammerDescription $DA2
 #define DevilAxeName $DA3
 #define DevilAxeDescription $DA4
+#define IronPoleaxeName $DA5
+#define IronPoleaxeDescription $DA6
+#define SteelPoleaxeName $DA7
+#define SteelPoleaxeDescription $DA8
+#define SilverPoleaxeName $DA9
+#define SilverPoleaxeDescription $DAA
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

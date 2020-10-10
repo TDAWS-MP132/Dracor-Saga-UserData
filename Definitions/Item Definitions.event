@@ -135,3 +135,19 @@
 #define DevilAxeMagicAnim 0xFF //MagicAnimationID here
 #define DevilAxeUseText 0x0 //TextID here
 
+#define IronPoleaxe 0xC0 //ItemID here
+#define IronPoleaxeMagicAnim 0xFF //MagicAnimationID here
+#define IronPoleaxeIcon (IronPoleaxe-1) //ItemIconID here
+#define IronPoleaxeUseText 0x0 //TextID here
+
+#define SteelPoleaxe 0xC1 //ItemID here
+#define SteelPoleaxeMagicAnim 0xFF //MagicAnimationID here
+#define SteelPoleaxeIcon (SteelPoleaxe-1) //ItemIconID here
+#define SteelPoleaxeUseText 0x0 //TextID here
+
+#define SilverPoleaxe 0xC2 //ItemID here
+#define SilverPoleaxeMagicAnim 0xFF //MagicAnimationID here
+#define SilverPoleaxeIcon (SilverPoleaxe-1) //ItemIconID here
+#define SilverPoleaxeUseText 0x0 //TextID here
+
+
