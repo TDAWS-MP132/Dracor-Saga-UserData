@@ -99,5 +99,13 @@
 #define SteelPoleaxeDescription $DA8
 #define SilverPoleaxeName $DA9
 #define SilverPoleaxeDescription $DAA
+#define IronBowName $DAB
+#define IronBowDescription $DAC
+#define SteelBowName $DAD
+#define SteelBowDescription $DAE
+#define SilverBowName $DAF
+#define SilverBowDescription $DB0
+#define ShortbowName $DB1
+#define ShortbowDescription $DB2
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

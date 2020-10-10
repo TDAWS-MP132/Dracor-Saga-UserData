@@ -91,3 +91,14 @@
 #include "Axes/Silver Poleaxe/Silver Poleaxe Installer.event"
 
 //Bows
+
+#include "Bows/Iron Bow/Iron Bow Installer.event"
+
+#include "Bows/Steel Bow/Steel Bow Installer.event"
+
+#include "Bows/Silver Bow/Silver Bow Installer.event"
+
+#include "Bows/Shortbow/Shortbow Installer.event"
+
+//Items
+

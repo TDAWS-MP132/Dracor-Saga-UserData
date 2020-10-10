@@ -256,6 +256,30 @@ Silver Poleaxe[X]
 ## SilverPoleaxeDescription
  [X]
 
+## IronBowName
+Iron Bow[X]
+
+## IronBowDescription
+ [X]
+ 
+## SteelBowName
+Steel Bow[X]
+
+## SteelBowDescription
+ [X]
+ 
+## SilverBowName
+Silver Bow[X]
+
+## SilverBowDescription
+ [X]
+
+## ShortbowName
+Shortbow[X]
+
+## ShortbowDescription
+ [X]
+
 
 
 

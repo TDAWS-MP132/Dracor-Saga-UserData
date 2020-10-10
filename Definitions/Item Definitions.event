@@ -150,4 +150,24 @@
 #define SilverPoleaxeIcon (SilverPoleaxe-1) //ItemIconID here
 #define SilverPoleaxeUseText 0x0 //TextID here
 
+//Bows
+#define IronBowMagicAnim 0xFF //MagicAnimationID here
+#define IronBowUseText 0x0 //TextID here
+
+#define SteelBowMagicAnim 0xFF //MagicAnimationID here
+#define SteelBowUseText 0x0 //TextID here
+
+#define SilverBowMagicAnim 0xFF //MagicAnimationID here
+#define SilverBowUseText 0x0 //TextID here
+
+#define Shortbow ShortBow //ItemID here
+#define ShortbowMagicAnim 0xFF //MagicAnimationID here
+#define ShortbowIcon (ShortBow-1) //ItemIconID here
+#define ShortbowUseText 0x0 //TextID here
+
+
+
+
+
+
 

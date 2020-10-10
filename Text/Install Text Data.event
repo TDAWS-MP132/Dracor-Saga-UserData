@@ -389,6 +389,38 @@ __TEXTPROCESSDAA:
 #incbin ".TextEntries\text_buildfileSilverPoleaxeDescription.fetxt.dmp"
 setText($DAA, __TEXTPROCESSDAA)
 
+__TEXTPROCESSDAB:
+#incbin ".TextEntries\text_buildfileIronBowName.fetxt.dmp"
+setText($DAB, __TEXTPROCESSDAB)
+
+__TEXTPROCESSDAC:
+#incbin ".TextEntries\text_buildfileIronBowDescription.fetxt.dmp"
+setText($DAC, __TEXTPROCESSDAC)
+
+__TEXTPROCESSDAD:
+#incbin ".TextEntries\text_buildfileSteelBowName.fetxt.dmp"
+setText($DAD, __TEXTPROCESSDAD)
+
+__TEXTPROCESSDAE:
+#incbin ".TextEntries\text_buildfileSteelBowDescription.fetxt.dmp"
+setText($DAE, __TEXTPROCESSDAE)
+
+__TEXTPROCESSDAF:
+#incbin ".TextEntries\text_buildfileSilverBowName.fetxt.dmp"
+setText($DAF, __TEXTPROCESSDAF)
+
+__TEXTPROCESSDB0:
+#incbin ".TextEntries\text_buildfileSilverBowDescription.fetxt.dmp"
+setText($DB0, __TEXTPROCESSDB0)
+
+__TEXTPROCESSDB1:
+#incbin ".TextEntries\text_buildfileShortbowName.fetxt.dmp"
+setText($DB1, __TEXTPROCESSDB1)
+
+__TEXTPROCESSDB2:
+#incbin ".TextEntries\text_buildfileShortbowDescription.fetxt.dmp"
+setText($DB2, __TEXTPROCESSDB2)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT
