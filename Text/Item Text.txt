@@ -280,7 +280,59 @@ Shortbow[X]
 ## ShortbowDescription
  [X]
 
+## LongbowName
+Longbow[X]
 
+## LongbowDescription
+ [X]
+ 
+## KillerBowName
+Killer Bow[X]
+
+## KillerBowDescription
+ [X]
+ 
+## BraveBowName
+Brave Bow[X]
+
+## BraveBowDescription
+X2 Strikes, Consecutively[X]
+
+## IronGreatbowName
+Iron Greatbow[X]
+
+## IronGreatbowDescription
+ [X]
+ 
+## SteelGreatbowName
+Steel Greatbow[X]
+
+## SteelGreatbowDescription
+ [X]
+ 
+## SilverGreatbowName
+Silver Greatbow[X]
+
+## SilverGreatbowDescription
+ [X]
+ 
+## CompoundBowName
+Compound Bow[X]
+
+## CompoundBowDescription
+ [X]
+ 
+## HuntingBowName
+Hunting Bow[X]
+
+## HuntingBowDescription
+Eff. vs Fliers and Cavalry[X]
+
+## ArmorPiercerName
+Armor Piercer[X]
+
+## ArmorPiercerDescription
+Eff. vs Fliers and Armor[X]
 
 ## VulneraryName
 Vulnerary[X]

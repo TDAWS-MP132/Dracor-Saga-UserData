@@ -62,10 +62,10 @@
 #define SlimSpearIcon (SlimLance-1) //ItemIconID here
 #define SlimSpearUseText 0x0 //TextID here
 
-#define JavelinMagicAnim 0xFF //MagicAnimationID here
+#define JavelinMagicAnim JavelinAnimation //MagicAnimationID here
 #define JavelinUseText 0x0 //TextID here
 
-#define ShortSpearMagicAnim 0xFF //MagicAnimationID here
+#define ShortSpearMagicAnim JavelinAnimation //MagicAnimationID here
 #define ShortSpearUseText 0x0 //TextID here
 
 #define AxereaverMagicAnim 0xFF //MagicAnimationID here
@@ -108,13 +108,13 @@
 #define SilverAxeMagicAnim 0xFF //MagicAnimationID here
 #define SilverAxeUseText 0x0 //TextID here
 
-#define HatchetMagicAnim 0xFF //MagicAnimationID here
+#define HatchetMagicAnim HandaxeAnimation //MagicAnimationID here
 #define HatchetUseText 0x0 //TextID here
 
-#define HandAxeMagicAnim 0xFF //MagicAnimationID here
+#define HandAxeMagicAnim HandaxeAnimation //MagicAnimationID here
 #define HandAxeUseText 0x0 //TextID here
 
-#define TomahawkMagicAnim 0xFF //MagicAnimationID here
+#define TomahawkMagicAnim HandaxeAnimation //MagicAnimationID here
 #define TomahawkUseText 0x0 //TextID here
 
 #define SwordreaverMagicAnim 0xFF //MagicAnimationID here
@@ -151,19 +151,59 @@
 #define SilverPoleaxeUseText 0x0 //TextID here
 
 //Bows
-#define IronBowMagicAnim 0xFF //MagicAnimationID here
+#define IronBowMagicAnim ArrowAnimation //MagicAnimationID here
 #define IronBowUseText 0x0 //TextID here
 
-#define SteelBowMagicAnim 0xFF //MagicAnimationID here
+#define SteelBowMagicAnim ArrowAnimation //MagicAnimationID here
 #define SteelBowUseText 0x0 //TextID here
 
-#define SilverBowMagicAnim 0xFF //MagicAnimationID here
+#define SilverBowMagicAnim ArrowAnimation //MagicAnimationID here
 #define SilverBowUseText 0x0 //TextID here
 
 #define Shortbow ShortBow //ItemID here
-#define ShortbowMagicAnim 0xFF //MagicAnimationID here
+#define ShortbowMagicAnim ArrowAnimation //MagicAnimationID here
 #define ShortbowIcon (ShortBow-1) //ItemIconID here
 #define ShortbowUseText 0x0 //TextID here
+
+#define LongBowMagicAnim ArrowAnimation //MagicAnimationID here
+#define LongBowUseText 0x0 //TextID here
+
+#define KillerBowMagicAnim ArrowAnimation //MagicAnimationID here
+#define KillerBowUseText 0x0 //TextID here
+
+#define BraveBowMagicAnim ArrowAnimation //MagicAnimationID here
+#define BraveBowUseText 0x0 //TextID here
+
+#define IronGreatbow 0xC3 //ItemID here
+#define IronGreatbowMagicAnim ArrowAnimation //MagicAnimationID here
+#define IronGreatbowIcon (IronGreatbow-1) //ItemIconID here
+#define IronGreatbowUseText 0x0 //TextID here
+
+#define SteelGreatbow 0xC4 //ItemID here
+#define SteelGreatbowMagicAnim ArrowAnimation //MagicAnimationID here
+#define SteelGreatbowIcon (SteelGreatbow-1) //ItemIconID here
+#define SteelGreatbowUseText 0x0 //TextID here
+
+#define SilverGreatbow 0xC5 //ItemID here
+#define SilverGreatbowMagicAnim ArrowAnimation //MagicAnimationID here
+#define SilverGreatbowIcon (SilverGreatbow-1) //ItemIconID here
+#define SilverGreatbowUseText 0x0 //TextID here
+
+#define CompoundBow 0xC6 //ItemID here
+#define CompoundBowMagicAnim ArrowAnimation //MagicAnimationID here
+#define CompoundBowIcon (CompoundBow-1) //ItemIconID here
+#define CompoundBowUseText 0x0 //TextID here
+
+#define HuntingBow 0xC7 //ItemID here
+#define HuntingBowMagicAnim ArrowAnimation //MagicAnimationID here
+#define HuntingBowIcon (HuntingBow-1) //ItemIconID here
+#define HuntingBowUseText 0x0 //TextID here
+
+#define ArmorPiercer 0xC8 //ItemID here
+#define ArmorPiercerMagicAnim ArrowAnimation //MagicAnimationID here
+#define ArmorPiercerIcon (ArmorPiercer-1) //ItemIconID here
+#define ArmorPiercerUseText 0x0 //TextID here
+
 
 //Items
 #define VulneraryMagicAnim 0xFF //MagicAnimationID here

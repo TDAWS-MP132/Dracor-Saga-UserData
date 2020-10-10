@@ -1,0 +1,14 @@
+
+{
+	#define ItemNumber SteelGreatbow
+	#define ItemIcon SteelGreatbowIcon
+	#define ItemMagicAnimation SteelGreatbowMagicAnim
+	#define ItemNameLocation SteelGreatbowName
+	#define ItemDescriptionLocation SteelGreatbowDescription
+	#define ItemUseTextLocation SteelGreatbowUseText
+	//#define UseItemText //Comment out if you want to use text in the text buildfile
+	#include "Files/Graphics Installer.event"
+	#include "Files/Text Installer.event"
+	#include "Files/Data Installer.event"
+	#include "Files/Undefiner.event"
+}

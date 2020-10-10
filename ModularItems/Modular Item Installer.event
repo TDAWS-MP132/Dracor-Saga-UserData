@@ -100,6 +100,24 @@
 
 #include "Bows/Shortbow/Shortbow Installer.event"
 
+#include "Bows/Longbow/Longbow Installer.event"
+
+#include "Bows/Killer Bow/Killer Bow Installer.event"
+
+#include "Bows/Brave Bow/Brave Bow Installer.event"
+
+#include "Bows/Iron Greatbow/Iron Greatbow Installer.event"
+
+#include "Bows/Steel Greatbow/Steel Greatbow Installer.event"
+
+#include "Bows/Silver Greatbow/Silver Greatbow Installer.event"
+
+#include "Bows/Compound Bow/Compound Bow Installer.event"
+
+#include "Bows/Hunting Bow/Hunting Bow Installer.event"
+
+#include "Bows/Armor Piercer/Armor Piercer Installer.event"
+
 //Items
 
 #include "Items/Vulnerary/Vulnerary Installer.event"

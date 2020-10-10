@@ -1,0 +1,14 @@
+
+{
+	#define ItemNumber CompoundBow
+	#define ItemIcon CompoundBowIcon
+	#define ItemMagicAnimation CompoundBowMagicAnim
+	#define ItemNameLocation CompoundBowName
+	#define ItemDescriptionLocation CompoundBowDescription
+	#define ItemUseTextLocation CompoundBowUseText
+	//#define UseItemText //Comment out if you want to use text in the text buildfile
+	#include "Files/Graphics Installer.event"
+	#include "Files/Text Installer.event"
+	#include "Files/Data Installer.event"
+	#include "Files/Undefiner.event"
+}

@@ -422,16 +422,88 @@ __TEXTPROCESSDB2:
 setText($DB2, __TEXTPROCESSDB2)
 
 __TEXTPROCESSDB3:
-#incbin ".TextEntries\text_buildfileVulneraryName.fetxt.dmp"
+#incbin ".TextEntries\text_buildfileLongBowName.fetxt.dmp"
 setText($DB3, __TEXTPROCESSDB3)
 
 __TEXTPROCESSDB4:
-#incbin ".TextEntries\text_buildfileVulneraryDescription.fetxt.dmp"
+#incbin ".TextEntries\text_buildfileLongBowDescription.fetxt.dmp"
 setText($DB4, __TEXTPROCESSDB4)
 
 __TEXTPROCESSDB5:
-#incbin ".TextEntries\text_buildfileVulneraryUseText.fetxt.dmp"
+#incbin ".TextEntries\text_buildfileKillerBowName.fetxt.dmp"
 setText($DB5, __TEXTPROCESSDB5)
+
+__TEXTPROCESSDB6:
+#incbin ".TextEntries\text_buildfileKillerBowDescription.fetxt.dmp"
+setText($DB6, __TEXTPROCESSDB6)
+
+__TEXTPROCESSDB7:
+#incbin ".TextEntries\text_buildfileBraveBowName.fetxt.dmp"
+setText($DB7, __TEXTPROCESSDB7)
+
+__TEXTPROCESSDB8:
+#incbin ".TextEntries\text_buildfileBraveBowDescription.fetxt.dmp"
+setText($DB8, __TEXTPROCESSDB8)
+
+__TEXTPROCESSDB9:
+#incbin ".TextEntries\text_buildfileIronGreatbowName.fetxt.dmp"
+setText($DB9, __TEXTPROCESSDB9)
+
+__TEXTPROCESSDBA:
+#incbin ".TextEntries\text_buildfileIronGreatbowDescription.fetxt.dmp"
+setText($DBA, __TEXTPROCESSDBA)
+
+__TEXTPROCESSDBB:
+#incbin ".TextEntries\text_buildfileSteelGreatbowName.fetxt.dmp"
+setText($DBB, __TEXTPROCESSDBB)
+
+__TEXTPROCESSDBC:
+#incbin ".TextEntries\text_buildfileSteelGreatbowDescription.fetxt.dmp"
+setText($DBC, __TEXTPROCESSDBC)
+
+__TEXTPROCESSDBD:
+#incbin ".TextEntries\text_buildfileSilverGreatbowName.fetxt.dmp"
+setText($DBD, __TEXTPROCESSDBD)
+
+__TEXTPROCESSDBE:
+#incbin ".TextEntries\text_buildfileSilverGreatbowDescription.fetxt.dmp"
+setText($DBE, __TEXTPROCESSDBE)
+
+__TEXTPROCESSDBF:
+#incbin ".TextEntries\text_buildfileCompoundBowName.fetxt.dmp"
+setText($DBF, __TEXTPROCESSDBF)
+
+__TEXTPROCESSDC0:
+#incbin ".TextEntries\text_buildfileCompoundBowDescription.fetxt.dmp"
+setText($DC0, __TEXTPROCESSDC0)
+
+__TEXTPROCESSDC1:
+#incbin ".TextEntries\text_buildfileHuntingBowName.fetxt.dmp"
+setText($DC1, __TEXTPROCESSDC1)
+
+__TEXTPROCESSDC2:
+#incbin ".TextEntries\text_buildfileHuntingBowDescription.fetxt.dmp"
+setText($DC2, __TEXTPROCESSDC2)
+
+__TEXTPROCESSDC3:
+#incbin ".TextEntries\text_buildfileArmorPiercerName.fetxt.dmp"
+setText($DC3, __TEXTPROCESSDC3)
+
+__TEXTPROCESSDC4:
+#incbin ".TextEntries\text_buildfileArmorPiercerDescription.fetxt.dmp"
+setText($DC4, __TEXTPROCESSDC4)
+
+__TEXTPROCESSDC5:
+#incbin ".TextEntries\text_buildfileVulneraryName.fetxt.dmp"
+setText($DC5, __TEXTPROCESSDC5)
+
+__TEXTPROCESSDC6:
+#incbin ".TextEntries\text_buildfileVulneraryDescription.fetxt.dmp"
+setText($DC6, __TEXTPROCESSDC6)
+
+__TEXTPROCESSDC7:
+#incbin ".TextEntries\text_buildfileVulneraryUseText.fetxt.dmp"
+setText($DC7, __TEXTPROCESSDC7)
 
 }
 
