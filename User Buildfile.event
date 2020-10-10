@@ -31,6 +31,7 @@ ALIGN 4
 
 //Engine Hacks
 #include "Engine Hacks/Master Hack Installer.event"
+#include "Engine Hacks/Bonus Effectiveness.event"
 
 //Maps
 ALIGN 4
