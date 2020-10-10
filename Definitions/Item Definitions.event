@@ -165,8 +165,8 @@
 #define ShortbowIcon (ShortBow-1) //ItemIconID here
 #define ShortbowUseText 0x0 //TextID here
 
-#define LongBowMagicAnim ArrowAnimation //MagicAnimationID here
-#define LongBowUseText 0x0 //TextID here
+#define LongbowMagicAnim ArrowAnimation //MagicAnimationID here
+#define LongbowUseText 0x0 //TextID here
 
 #define KillerBowMagicAnim ArrowAnimation //MagicAnimationID here
 #define KillerBowUseText 0x0 //TextID here

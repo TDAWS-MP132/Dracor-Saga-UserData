@@ -422,11 +422,11 @@ __TEXTPROCESSDB2:
 setText($DB2, __TEXTPROCESSDB2)
 
 __TEXTPROCESSDB3:
-#incbin ".TextEntries\text_buildfileLongBowName.fetxt.dmp"
+#incbin ".TextEntries\text_buildfileLongbowName.fetxt.dmp"
 setText($DB3, __TEXTPROCESSDB3)
 
 __TEXTPROCESSDB4:
-#incbin ".TextEntries\text_buildfileLongBowDescription.fetxt.dmp"
+#incbin ".TextEntries\text_buildfileLongbowDescription.fetxt.dmp"
 setText($DB4, __TEXTPROCESSDB4)
 
 __TEXTPROCESSDB5:

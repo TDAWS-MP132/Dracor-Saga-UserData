@@ -107,8 +107,8 @@
 #define SilverBowDescription $DB0
 #define ShortbowName $DB1
 #define ShortbowDescription $DB2
-#define LongBowName $DB3
-#define LongBowDescription $DB4
+#define LongbowName $DB3
+#define LongbowDescription $DB4
 #define KillerBowName $DB5
 #define KillerBowDescription $DB6
 #define BraveBowName $DB7
