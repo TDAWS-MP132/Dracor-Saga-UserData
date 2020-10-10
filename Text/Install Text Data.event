@@ -421,6 +421,18 @@ __TEXTPROCESSDB2:
 #incbin ".TextEntries\text_buildfileShortbowDescription.fetxt.dmp"
 setText($DB2, __TEXTPROCESSDB2)
 
+__TEXTPROCESSDB3:
+#incbin ".TextEntries\text_buildfileVulneraryName.fetxt.dmp"
+setText($DB3, __TEXTPROCESSDB3)
+
+__TEXTPROCESSDB4:
+#incbin ".TextEntries\text_buildfileVulneraryDescription.fetxt.dmp"
+setText($DB4, __TEXTPROCESSDB4)
+
+__TEXTPROCESSDB5:
+#incbin ".TextEntries\text_buildfileVulneraryUseText.fetxt.dmp"
+setText($DB5, __TEXTPROCESSDB5)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT

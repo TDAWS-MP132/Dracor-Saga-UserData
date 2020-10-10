@@ -107,5 +107,8 @@
 #define SilverBowDescription $DB0
 #define ShortbowName $DB1
 #define ShortbowDescription $DB2
+#define VulneraryName $DB3
+#define VulneraryDescription $DB4
+#define VulneraryUseText $DB5
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

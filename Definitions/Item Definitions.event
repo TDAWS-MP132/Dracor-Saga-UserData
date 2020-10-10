@@ -165,7 +165,8 @@
 #define ShortbowIcon (ShortBow-1) //ItemIconID here
 #define ShortbowUseText 0x0 //TextID here
 
-
+//Items
+#define VulneraryMagicAnim 0xFF //MagicAnimationID here
 
 
 

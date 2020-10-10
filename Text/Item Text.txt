@@ -282,4 +282,23 @@ Shortbow[X]
 
 
 
+## VulneraryName
+Vulnerary[X]
+
+## VulneraryDescription
+Use to recover 15 HP.[X]
+
+## VulneraryUseText
+Recover 15 HP.[X]
+
+
+
+
+
+
+
+
+
+
+
 

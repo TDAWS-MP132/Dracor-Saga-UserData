@@ -102,3 +102,4 @@
 
 //Items
 
+#include "Items/Vulnerary/Vulnerary Installer.event"
