@@ -108,6 +108,30 @@
 #define SilverAxeMagicAnim 0xFF //MagicAnimationID here
 #define SilverAxeUseText 0x0 //TextID here
 
+#define HatchetMagicAnim 0xFF //MagicAnimationID here
+#define HatchetUseText 0x0 //TextID here
 
+#define HandAxeMagicAnim 0xFF //MagicAnimationID here
+#define HandAxeUseText 0x0 //TextID here
 
+#define TomahawkMagicAnim 0xFF //MagicAnimationID here
+#define TomahawkUseText 0x0 //TextID here
+
+#define SwordreaverMagicAnim 0xFF //MagicAnimationID here
+#define SwordreaverUseText 0x0 //TextID here
+
+#define KillerAxeMagicAnim 0xFF //MagicAnimationID here
+#define KillerAxeUseText 0x0 //TextID here
+
+#define BraveAxeMagicAnim 0xFF //MagicAnimationID here
+#define BraveAxeUseText 0x0 //TextID here
+
+#define HalberdMagicAnim 0xFF //MagicAnimationID here
+#define HalberdUseText 0x0 //TextID here
+
+#define HammerMagicAnim 0xFF //MagicAnimationID here
+#define HammerUseText 0x0 //TextID here
+
+#define DevilAxeMagicAnim 0xFF //MagicAnimationID here
+#define DevilAxeUseText 0x0 //TextID here
 

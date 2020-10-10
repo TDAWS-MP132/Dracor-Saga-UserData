@@ -151,37 +151,90 @@ Eff. vs Armor and Scales[X]
 ## IronGLanceName
 Iron Lance[X]
 
-##IronGLanceDescription
+## IronGLanceDescription
  [X]
 
 ## SteelGLanceName
 Steel Lance[X]
 
-##SteelGLanceDescription
+## SteelGLanceDescription
  [X]
  
 ## SilverGLanceName
 Silver Lance[X]
 
-##SilverGLanceDescription
+## SilverGLanceDescription
  [X]
  
-##IronAxeName
+## IronAxeName
 Iron Axe[X]
 
-##IronAxeDescription
+## IronAxeDescription
  [X]
  
-##SteelAxeName
+## SteelAxeName
 Steel Axe[X]
 
-##SteelAxeDescription
+## SteelAxeDescription
  [X]
  
-##SilverAxeName
+## SilverAxeName
 Silver Axe[X]
 
-##SilverAxeDescription
+## SilverAxeDescription
+ [X]
+ 
+## HatchetName
+Hatchet[X]
+
+## HatchetDescription
  [X]
 
+## HandAxeName
+Hand Axe[X]
+
+## HandAxeDescription
+ [X]
+ 
+## TomahawkName
+Tomahawk[X]
+
+## TomahawkDescription
+ [X]
+
+## SwordreaverName
+Swordreaver[X]
+
+## SwordreaverDescription
+Reverses the Weapon Triangle[X]
+
+## KillerAxeName
+Killer Axe[X]
+
+## KillerAxeDescription
+ [X]
+
+## BraveAxeName
+Brave Axe[X]
+
+## BraveAxeDescription
+X2 Strikes, Consecutively[X]
+
+## HalberdName
+Halberd[X]
+
+## HalberdDescription
+Eff. vs Cavalry and Pegasi[X]
+
+## HammerName
+Hammer[X]
+
+## HammerDescription
+Eff. vs Armor and Scales[X]
+
+## DevilAxeName
+Devil Axe[X]
+
+## DevilAxeDescription
+May Injure Wielder[X]
 

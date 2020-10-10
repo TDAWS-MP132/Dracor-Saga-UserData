@@ -66,15 +66,22 @@
 
 #include "Axes/Silver Axe/Silver Axe Installer.event"
 
+#include "Axes/Hatchet/Hatchet Installer.event"
 
+#include "Axes/Hand Axe/Hand Axe Installer.event"
 
+#include "Axes/Tomahawk/Tomahawk Installer.event"
 
+#include "Axes/Swordreaver/Swordreaver Installer.event"
 
+#include "Axes/Killer Axe/Killer Axe Installer.event"
 
+#include "Axes/Brave Axe/Brave Axe Installer.event"
 
+#include "Axes/Halberd/Halberd Installer.event"
 
+#include "Axes/Hammer/Hammer Installer.event"
 
-
-
+#include "Axes/Devil Axe/Devil Axe Installer.event"
 
 //Bows

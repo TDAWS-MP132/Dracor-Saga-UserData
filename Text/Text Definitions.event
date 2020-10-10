@@ -75,5 +75,23 @@
 #define SteelAxeDescription $D90
 #define SilverAxeName $D91
 #define SilverAxeDescription $D92
+#define HatchetName $D93
+#define HatchetDescription $D94
+#define HandAxeName $D95
+#define HandAxeDescription $D96
+#define TomahawkName $D97
+#define TomahawkDescription $D98
+#define SwordreaverName $D99
+#define SwordreaverDescription $D9A
+#define KillerAxeName $D9B
+#define KillerAxeDescription $D9C
+#define BraveAxeName $D9D
+#define BraveAxeDescription $D9E
+#define HalberdName $D9F
+#define HalberdDescription $DA0
+#define HammerName $DA1
+#define HammerDescription $DA2
+#define DevilAxeName $DA3
+#define DevilAxeDescription $DA4
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

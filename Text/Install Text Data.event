@@ -293,6 +293,78 @@ __TEXTPROCESSD92:
 #incbin ".TextEntries\text_buildfileSilverAxeDescription.fetxt.dmp"
 setText($D92, __TEXTPROCESSD92)
 
+__TEXTPROCESSD93:
+#incbin ".TextEntries\text_buildfileHatchetName.fetxt.dmp"
+setText($D93, __TEXTPROCESSD93)
+
+__TEXTPROCESSD94:
+#incbin ".TextEntries\text_buildfileHatchetDescription.fetxt.dmp"
+setText($D94, __TEXTPROCESSD94)
+
+__TEXTPROCESSD95:
+#incbin ".TextEntries\text_buildfileHandAxeName.fetxt.dmp"
+setText($D95, __TEXTPROCESSD95)
+
+__TEXTPROCESSD96:
+#incbin ".TextEntries\text_buildfileHandAxeDescription.fetxt.dmp"
+setText($D96, __TEXTPROCESSD96)
+
+__TEXTPROCESSD97:
+#incbin ".TextEntries\text_buildfileTomahawkName.fetxt.dmp"
+setText($D97, __TEXTPROCESSD97)
+
+__TEXTPROCESSD98:
+#incbin ".TextEntries\text_buildfileTomahawkDescription.fetxt.dmp"
+setText($D98, __TEXTPROCESSD98)
+
+__TEXTPROCESSD99:
+#incbin ".TextEntries\text_buildfileSwordreaverName.fetxt.dmp"
+setText($D99, __TEXTPROCESSD99)
+
+__TEXTPROCESSD9A:
+#incbin ".TextEntries\text_buildfileSwordreaverDescription.fetxt.dmp"
+setText($D9A, __TEXTPROCESSD9A)
+
+__TEXTPROCESSD9B:
+#incbin ".TextEntries\text_buildfileKillerAxeName.fetxt.dmp"
+setText($D9B, __TEXTPROCESSD9B)
+
+__TEXTPROCESSD9C:
+#incbin ".TextEntries\text_buildfileKillerAxeDescription.fetxt.dmp"
+setText($D9C, __TEXTPROCESSD9C)
+
+__TEXTPROCESSD9D:
+#incbin ".TextEntries\text_buildfileBraveAxeName.fetxt.dmp"
+setText($D9D, __TEXTPROCESSD9D)
+
+__TEXTPROCESSD9E:
+#incbin ".TextEntries\text_buildfileBraveAxeDescription.fetxt.dmp"
+setText($D9E, __TEXTPROCESSD9E)
+
+__TEXTPROCESSD9F:
+#incbin ".TextEntries\text_buildfileHalberdName.fetxt.dmp"
+setText($D9F, __TEXTPROCESSD9F)
+
+__TEXTPROCESSDA0:
+#incbin ".TextEntries\text_buildfileHalberdDescription.fetxt.dmp"
+setText($DA0, __TEXTPROCESSDA0)
+
+__TEXTPROCESSDA1:
+#incbin ".TextEntries\text_buildfileHammerName.fetxt.dmp"
+setText($DA1, __TEXTPROCESSDA1)
+
+__TEXTPROCESSDA2:
+#incbin ".TextEntries\text_buildfileHammerDescription.fetxt.dmp"
+setText($DA2, __TEXTPROCESSDA2)
+
+__TEXTPROCESSDA3:
+#incbin ".TextEntries\text_buildfileDevilAxeName.fetxt.dmp"
+setText($DA3, __TEXTPROCESSDA3)
+
+__TEXTPROCESSDA4:
+#incbin ".TextEntries\text_buildfileDevilAxeDescription.fetxt.dmp"
+setText($DA4, __TEXTPROCESSDA4)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT
