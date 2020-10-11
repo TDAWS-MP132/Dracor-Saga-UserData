@@ -167,6 +167,7 @@
 
 #define LongbowMagicAnim ArrowAnimation //MagicAnimationID here
 #define LongbowUseText 0x0 //TextID here
+#undef LongbowDescription //TextID here
 
 #define KillerBowMagicAnim ArrowAnimation //MagicAnimationID here
 #define KillerBowUseText 0x0 //TextID here
