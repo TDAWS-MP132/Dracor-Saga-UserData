@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="1">
- <tileset firstgid="1" source="Tilesets/Tileset tsx/FE 8 Fields.tsx"/>
+ <tileset firstgid="1" source="Tilesets/Tileset tsx/FE 8 Fields Gaiden Badlands Tileset.tsx"/>
  <layer id="4" name="Snag3" width="16" height="16">
   <properties>
    <property name="Height" value="1"/>
@@ -101,7 +101,7 @@
 783,722,67,724,724,71,722,817,601,68,14,722,783,67,784,755,
 67,816,14,67,784,103,104,784,633,722,817,133,724,722,783,724,
 722,783,722,783,723,722,9,817,633,785,722,67,723,783,133,754,
-571,572,631,67,632,572,539,572,535,786,816,818,783,722,72,786,
+571,572,631,67,632,572,539,572,606,786,816,818,783,722,72,786,
 723,724,600,539,599,724,68,754,600,631,67,722,818,103,104,722,
 786,815,722,785,754,783,785,67,724,601,783,68,784,722,819,788,
 785,131,815,67,783,15,786,783,784,3,67,783,131,818,131,815,
