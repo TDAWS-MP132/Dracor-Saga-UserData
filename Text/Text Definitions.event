@@ -130,5 +130,7 @@
 #define VulneraryUseText $DC7
 #define PrinceName $DC8
 #define PrinceDescription $DC9
+#define HuntressName $DCA
+#define HuntressDescription $DCB
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

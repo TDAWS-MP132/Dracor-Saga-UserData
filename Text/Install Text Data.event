@@ -513,6 +513,14 @@ __TEXTPROCESSDC9:
 #incbin ".TextEntries\text_buildfilePrinceDescription.fetxt.dmp"
 setText($DC9, __TEXTPROCESSDC9)
 
+__TEXTPROCESSDCA:
+#incbin ".TextEntries\text_buildfileHuntressName.fetxt.dmp"
+setText($DCA, __TEXTPROCESSDCA)
+
+__TEXTPROCESSDCB:
+#incbin ".TextEntries\text_buildfileHuntressDescription.fetxt.dmp"
+setText($DCB, __TEXTPROCESSDCB)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT

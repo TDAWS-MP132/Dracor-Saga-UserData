@@ -4,3 +4,10 @@ Prince[X]
 ## PrinceDescription
 Scions of nobility trained[N]
 in swords and lances.[X]
+
+## HuntressName
+Huntress[X]
+
+## HuntressDescription
+Women skilled with bows[N]
+who also have keen sight.[X]
