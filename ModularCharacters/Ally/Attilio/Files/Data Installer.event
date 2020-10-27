@@ -3,12 +3,12 @@
 #define UnitDescription UnitDescriptionLocation
 #define UnitMug UnitMugID
 #define UnitMinimug 0x0
-#define UnitAffinity 0x0
+#define UnitAffinity AffFire
 #define UnitPriority 0x0
-#define PersonalSkill 0x0
+#define PersonalSkill CharismaID
 
 //Stats
-#define UnitLevel 0
+#define UnitLevel 1
 #define BaseHP 0
 #define BaseStr 0
 #define BaseMag 0
@@ -16,12 +16,12 @@
 #define BaseSpd 0
 #define BaseDef 0
 #define BaseRes 0
-#define BaseLuk 0
+#define BaseLuk 8
 #define BaseCon 0
 
 //Base Weapon Ranks
-#define BaseSwordRank 0
-#define BaseLanceRank 0
+#define BaseSwordRank ERank
+#define BaseLanceRank 16
 #define BaseAxeRank 0
 #define BaseBowRank 0
 #define BaseStaffRank 0
@@ -30,19 +30,19 @@
 #define BaseDarkRank 0
 
 //Growth Rates
-#define HPGrowth 0
-#define StrGrowth 0
-#define MagGrowth 0
-#define SklGrowth 0
-#define SpdGrowth 0
-#define DefGrowth 0
-#define ResGrowth 0
-#define LukGrowth 0
+#define HPGrowth 70
+#define StrGrowth 40
+#define MagGrowth 25
+#define SklGrowth 55
+#define SpdGrowth 45
+#define DefGrowth 35
+#define ResGrowth 30
+#define LukGrowth 55
 
 //Character Abilities
 #define CharacterAbilityOne 0x0
-#define CharacterAbilityTwo 0x0
-#define CharacterAbilityThree 0x0
+#define CharacterAbilityTwo IsLord
+#define CharacterAbilityThree 0x1
 #define CharacterAbilityFour 0x0
 
 //Support Data

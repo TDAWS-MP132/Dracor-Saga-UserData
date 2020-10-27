@@ -128,5 +128,7 @@
 #define VulneraryName $DC5
 #define VulneraryDescription $DC6
 #define VulneraryUseText $DC7
+#define PrinceName $DC8
+#define PrinceDescription $DC9
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

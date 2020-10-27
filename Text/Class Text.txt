@@ -1,0 +1,6 @@
+## PrinceName
+Prince[X]
+
+## PrinceDescription
+Scions of nobility trained[N]
+in swords and lances.[X]

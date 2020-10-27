@@ -1,0 +1,5 @@
+#define Prince 0x02 //ClassID here
+#define PrinceLanceAnim 0x01 //AnimationID here
+#define PrinceSwordAnim 0x02 //AnimationID here
+#define PrinceUnarmedAnim 0x03 //AnimationID here
+#define PrinceClassCard 0x72 //MugID here

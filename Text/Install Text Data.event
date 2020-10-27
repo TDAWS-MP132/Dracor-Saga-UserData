@@ -505,6 +505,14 @@ __TEXTPROCESSDC7:
 #incbin ".TextEntries\text_buildfileVulneraryUseText.fetxt.dmp"
 setText($DC7, __TEXTPROCESSDC7)
 
+__TEXTPROCESSDC8:
+#incbin ".TextEntries\text_buildfilePrinceName.fetxt.dmp"
+setText($DC8, __TEXTPROCESSDC8)
+
+__TEXTPROCESSDC9:
+#incbin ".TextEntries\text_buildfilePrinceDescription.fetxt.dmp"
+setText($DC9, __TEXTPROCESSDC9)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT

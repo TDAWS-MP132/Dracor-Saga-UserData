@@ -1,7 +1,3 @@
-#include "Attilio/Attilio Installer.event"
-
-#include "Nebiros/Nebiros Installer.event"
-
-#include "Belial/Belial Installer.event"
+#include "Ally/Modular Character Installer.event"
 
 #include "FolkeBoss/FolkeBoss Installer.event"
