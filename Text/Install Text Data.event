@@ -529,6 +529,14 @@ __TEXTPROCESSDCD:
 #incbin ".TextEntries\text_buildfileLordKnightDescription.fetxt.dmp"
 setText($DCD, __TEXTPROCESSDCD)
 
+__TEXTPROCESSDCE:
+#incbin ".TextEntries\text_buildfileLadyKnightName.fetxt.dmp"
+setText($DCE, __TEXTPROCESSDCE)
+
+__TEXTPROCESSDCF:
+#incbin ".TextEntries\text_buildfileLadyKnightDescription.fetxt.dmp"
+setText($DCF, __TEXTPROCESSDCF)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT

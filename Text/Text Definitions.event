@@ -134,5 +134,7 @@
 #define HuntressDescription $DCB
 #define LordKnightName $DCC
 #define LordKnightDescription $DCD
+#define LadyKnightName $DCE
+#define LadyKnightDescription $DCF
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

@@ -10,24 +10,24 @@
 #define ClassType HorseType //For use with the effectiveness rework
 
 //Base Stats
-#define BaseHP 28
-#define BaseStr 9
-#define BaseMag 6
-#define BaseSkl 10
-#define BaseSpd 10
-#define BaseDef 7
-#define BaseRes 6
-#define BaseCon 10
+#define BaseHP 23
+#define BaseStr 8
+#define BaseMag 0
+#define BaseSkl 15
+#define BaseSpd 13
+#define BaseDef 4
+#define BaseRes 5
+#define BaseCon 9
 #define BaseMov 7
 
 //Max Stats
 #define MaxHP 60
-#define MaxStr 26
+#define MaxStr 24
 #define MaxMag 20
-#define MaxSkl 26
-#define MaxSpd 26
-#define MaxDef 24
-#define MaxRes 24
+#define MaxSkl 28
+#define MaxSpd 28
+#define MaxDef 22
+#define MaxRes 20
 #define MaxCon 20
 
 //Enemy Growths
@@ -43,23 +43,23 @@
 //Promotion Bonuses
 #define HPBonus 4
 #define StrBonus 3
-#define MagBonus 3
+#define MagBonus 0
 #define SklBonus 3
 #define SpdBonus 3
 #define DefBonus 2
-#define ResBonus 3
+#define ResBonus 2
 
 //Class Abilities
-#define ClassAbilityOne 0x03
+#define ClassAbilityOne 0x0B
 #define ClassAbilityTwo 0x05
 #define ClassAbilityThree 0x0
 #define ClassAbilityFour 0x0
 
 //Base Weapon Ranks
-#define BaseSwordRank CRank
-#define BaseLanceRank CRank 
+#define BaseSwordRank ERank
+#define BaseLanceRank 0
 #define BaseAxeRank 0
-#define BaseBowRank 0
+#define BaseBowRank CRank
 #define BaseStaffRank 0
 #define BaseAnimaRank 0
 #define BaseLightRank 0
@@ -69,9 +69,9 @@
 #define BattleAnimation ClassAnim
 
 //Movement Type
-#define MoveType PaladinMoveType
-#define RainMoveType PaladinRainMoveType
-#define SnowMoveType PaladinSnowMoveType
+#define MoveType RangerMoveType
+#define RainMoveType RangerRainMoveType
+#define SnowMoveType RangerSnowMoveType
 #define TerrainAvoidBonus GetAvoBonus
 #define TerrainDefenseBonus GetDefBonus
 #define TerrainResistanceBonus GetResBonus

@@ -1,0 +1,20 @@
+#ifdef AnimationSwitch
+
+ALIGN 4
+
+#include "Animations/Sword Installer.event"
+#include "Animations/Bow Installer.event"
+#include "Animations/Unarmed Installer.event"
+
+ClassAnim:
+SwordAnim(LadyKnightSwordAnim)
+BowAnim(LadyKnightBowAnim)
+UnarmedAnim(LadyKnightUnarmedAnim)
+EndAnim
+
+#endif
+
+#ifndef AnimationSwitch
+ClassAnim:
+EndAnim
+#endif

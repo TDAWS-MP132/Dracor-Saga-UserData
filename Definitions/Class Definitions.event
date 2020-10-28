@@ -14,3 +14,9 @@
 #define LordKnightLanceAnim 0x7 //AnimationID here
 #define LordKnightUnarmedAnim 0x8 //AnimationID here
 #define LordKnightClassCard 0x74 //MugID here
+
+#define LadyKnight 0x04 //ClassID here
+#define LadyKnightSwordAnim 0x9 //AnimationID here
+#define LadyKnightBowAnim 0xa //AnimationID here
+#define LadyKnightUnarmedAnim 0xb //AnimationID here
+#define LadyKnightClassCard 0x75 //MugID here

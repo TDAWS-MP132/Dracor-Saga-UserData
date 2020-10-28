@@ -18,3 +18,10 @@ Lord Knight[X]
 ## LordKnightDescription
 Nobility who have assumed[N]
 the role of knight commander.[X]
+
+## LadyKnightName
+Lady Knight[X]
+
+## LadyKnightDescription
+A newly titled noblewoman[N]
+and knight commander.[X]
