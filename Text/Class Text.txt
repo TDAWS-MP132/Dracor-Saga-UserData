@@ -11,3 +11,10 @@ Huntress[X]
 ## HuntressDescription
 Women skilled with bows[N]
 who also have keen sight.[X]
+
+## LordKnightName
+Lord Knight[X]
+
+## LordKnightDescription
+Nobility who have assumed[N]
+the role of knight commander.[X]

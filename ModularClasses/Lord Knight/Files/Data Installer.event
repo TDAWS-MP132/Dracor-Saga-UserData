@@ -6,28 +6,28 @@
 #define ClassCard ClassCardLocation
 #define UnitSortOrder 0x0
 #define ClassRelativePower 3
-#define MovementSound 0x0
-#define ClassType 0x0 //For use with the effectiveness rework
+#define MovementSound CavalryWalk
+#define ClassType HorseType //For use with the effectiveness rework
 
 //Base Stats
-#define BaseHP 20
-#define BaseStr 6
-#define BaseMag 0
-#define BaseSkl 12
+#define BaseHP 28
+#define BaseStr 9
+#define BaseMag 6
+#define BaseSkl 10
 #define BaseSpd 10
-#define BaseDef 2
-#define BaseRes 3
-#define BaseCon 7
-#define BaseMov 5
+#define BaseDef 7
+#define BaseRes 6
+#define BaseCon 10
+#define BaseMov 7
 
 //Max Stats
 #define MaxHP 60
-#define MaxStr 20
+#define MaxStr 26
 #define MaxMag 20
-#define MaxSkl 20
-#define MaxSpd 20
-#define MaxDef 20
-#define MaxRes 20
+#define MaxSkl 26
+#define MaxSpd 26
+#define MaxDef 24
+#define MaxRes 24
 #define MaxCon 20
 
 //Enemy Growths
@@ -41,25 +41,25 @@
 #define LukGrowth 0
 
 //Promotion Bonuses
-#define HPBonus 0
-#define StrBonus 0
-#define MagBonus 0
-#define SklBonus 0
-#define SpdBonus 0
-#define DefBonus 0
-#define ResBonus 0
+#define HPBonus 4
+#define StrBonus 3
+#define MagBonus 3
+#define SklBonus 3
+#define SpdBonus 3
+#define DefBonus 2
+#define ResBonus 3
 
 //Class Abilities
-#define ClassAbilityOne 0x08
-#define ClassAbilityTwo 0x0
+#define ClassAbilityOne 0x03
+#define ClassAbilityTwo 0x25
 #define ClassAbilityThree 0x0
 #define ClassAbilityFour 0x0
 
 //Base Weapon Ranks
-#define BaseSwordRank 0
-#define BaseLanceRank 0
+#define BaseSwordRank CRank
+#define BaseLanceRank CRank 
 #define BaseAxeRank 0
-#define BaseBowRank ERank
+#define BaseBowRank 0
 #define BaseStaffRank 0
 #define BaseAnimaRank 0
 #define BaseLightRank 0
@@ -69,9 +69,9 @@
 #define BattleAnimation ClassAnim
 
 //Movement Type
-#define MoveType PirateMoveType
-#define RainMoveType PirateRainMoveType
-#define SnowMoveType PirateSnowMoveType
+#define MoveType PaladinMoveType
+#define RainMoveType PaladinRainMoveType
+#define SnowMoveType PaladinSnowMoveType
 #define TerrainAvoidBonus GetAvoBonus
 #define TerrainDefenseBonus GetDefBonus
 #define TerrainResistanceBonus GetResBonus

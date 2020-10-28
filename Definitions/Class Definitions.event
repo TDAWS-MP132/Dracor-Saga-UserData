@@ -8,3 +8,9 @@
 #define HuntressBowAnim 0x4 //AnimationID here
 #define HuntressUnarmedAnim 0x5 //AnimationID here
 #define HuntressClassCard 0x73 //MugID here
+
+#define LordKnight 0x03 //ClassID here
+#define LordKnightSwordAnim 0x6 //AnimationID here
+#define LordKnightLanceAnim 0x7 //AnimationID here
+#define LordKnightUnarmedAnim 0x8 //AnimationID here
+#define LordKnightClassCard 0x74 //MugID here

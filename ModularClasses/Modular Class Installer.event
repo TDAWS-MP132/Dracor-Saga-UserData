@@ -1,3 +1,5 @@
 #include "Prince/Prince Installer.event"
 
 #include "Huntress/Huntress Installer.event"
+
+#include "Lord Knight/Lord Knight Installer.event"
