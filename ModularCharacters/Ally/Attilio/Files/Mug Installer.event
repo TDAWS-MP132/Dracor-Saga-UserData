@@ -1,5 +1,5 @@
 #define MouthX 3
-#define MouthY 5
+#define MouthY 6
 #define EyeX 3
 #define EyeY 3
 
