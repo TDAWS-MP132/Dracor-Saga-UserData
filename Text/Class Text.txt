@@ -25,3 +25,168 @@ Lady Knight[X]
 ## LadyKnightDescription
 A newly titled noblewoman[N]
 and knight commander.[X]
+
+## SoldierName
+Soldier[X]
+
+## SoldierDescription
+Disciplined but often[N]
+untrained spear wielders.[X]
+
+## HalberdierName
+Halberdier[X]
+
+## HalberdierDescription
+Veteran and skilled soldiers[N]
+who bear lances and axes both.[X]
+
+## DeserterName
+Deserter[X]
+
+## DeserterDescription
+Those who have abandoned the[N]
+battlefield, but not their spears.[X]
+
+## SkirmisherName
+Skirmisher[X]
+
+## SkirmisherDescription
+Light infantry who ignore[N]
+formation to scout and operate.[X]
+
+## MercenaryName
+Mercenary[X]
+
+## MercenaryDescription
+Individuals who use blades[N]
+to fight for coin.[X]
+
+## ChampionName
+Champion[X]
+
+## ChampionDescription
+Veterans of the battlefield,[N]
+adept with blades and axes.[X]
+
+## MyrmidonName
+Myrmidon[X]
+
+## MyrmidonDescription
+Duelists skilled with swords[N]
+that have unparalleled speed.[X]
+
+## DreadfighterName
+Dread Fighter[X]
+
+## DreadfighterDescription
+Swordmasters who hunt magi with[N]
+their high speed and resistance[X]
+
+## ThiefName
+Thief[X]
+
+## ThiefDescription
+Cutpurses who prefer scouting[N]
+or theft to swordplay[X]
+
+## RogueName
+Rogue[X]
+
+## RogueDescription
+Skilled thieves with even[N]
+swifter eyes, hands, and feet.[X]
+
+## FighterName
+Fighter[X]
+
+## FighterDescription
+Burly combatants with strength,[N]
+bulk, and skill with axes.[X]
+
+## WarriorName
+Warrior[X]
+
+## WarriorDescription
+Veteran fighters who now wield[N]
+bows alongside their trusty axes.[X]
+
+## BrigandName
+Brigand[X]
+
+## BrigandDescription
+Burly bandits and thugs who[N]
+use axes to inflict great damage.[X]
+
+## PirateName
+Pirate[X]
+
+## PirateDescription
+Salty sea dogs who can swim[N]
+seas and swing axes.[X]
+
+## CorsairName
+Corsair[X]
+
+## CorsairDescription
+Pirates or thugs who use sabers[N]
+and axes for a greater purpose.[X]
+
+## ArmorknightName
+Armor Knight[X]
+
+## ArmorknightDescription
+Armored weapon generalists[N]
+with towering defence.[X]
+
+## GeneralName
+General[X]
+
+## GeneralDescription
+Promoted armored knights[N]
+with complete weapon access.[X]
+
+## ArcherName
+Archer[X]
+
+## ArcherDescription
+Bow wielding infantry[N]
+With high skill.[X]
+
+## SniperName
+Sniper[X]
+
+## SniperDescription
+Master archers with[N]
+superior skill and range.[X]
+
+## OutlawName
+Outlaw[X]
+
+## OutlawDescription
+Scoundrels who threaten[N]
+their marks with bows.[X]
+
+## HighwaymanName
+Highwayman[X]
+
+## HighwaymanDescription
+Expert outlaws who conduct[N]
+raids with their bowmanship.[X]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

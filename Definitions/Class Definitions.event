@@ -20,3 +20,8 @@
 #define LadyKnightBowAnim 0xa //AnimationID here
 #define LadyKnightUnarmedAnim 0xb //AnimationID here
 #define LadyKnightClassCard 0x75 //MugID here
+
+#define Soldier 0x05 //ClassID here
+#define SoldierLanceAnim 0xc //AnimationID here
+#define SoldierUnarmedAnim 0xd //AnimationID here
+#define SoldierClassCard 0x8A //MugID here
