@@ -537,6 +537,174 @@ __TEXTPROCESSDCF:
 #incbin ".TextEntries\text_buildfileLadyKnightDescription.fetxt.dmp"
 setText($DCF, __TEXTPROCESSDCF)
 
+__TEXTPROCESSDD0:
+#incbin ".TextEntries\text_buildfileSoldierName.fetxt.dmp"
+setText($DD0, __TEXTPROCESSDD0)
+
+__TEXTPROCESSDD1:
+#incbin ".TextEntries\text_buildfileSoldierDescription.fetxt.dmp"
+setText($DD1, __TEXTPROCESSDD1)
+
+__TEXTPROCESSDD2:
+#incbin ".TextEntries\text_buildfileHalberdierName.fetxt.dmp"
+setText($DD2, __TEXTPROCESSDD2)
+
+__TEXTPROCESSDD3:
+#incbin ".TextEntries\text_buildfileHalberdierDescription.fetxt.dmp"
+setText($DD3, __TEXTPROCESSDD3)
+
+__TEXTPROCESSDD4:
+#incbin ".TextEntries\text_buildfileDeserterName.fetxt.dmp"
+setText($DD4, __TEXTPROCESSDD4)
+
+__TEXTPROCESSDD5:
+#incbin ".TextEntries\text_buildfileDeserterDescription.fetxt.dmp"
+setText($DD5, __TEXTPROCESSDD5)
+
+__TEXTPROCESSDD6:
+#incbin ".TextEntries\text_buildfileSkirmisherName.fetxt.dmp"
+setText($DD6, __TEXTPROCESSDD6)
+
+__TEXTPROCESSDD7:
+#incbin ".TextEntries\text_buildfileSkirmisherDescription.fetxt.dmp"
+setText($DD7, __TEXTPROCESSDD7)
+
+__TEXTPROCESSDD8:
+#incbin ".TextEntries\text_buildfileMercenaryName.fetxt.dmp"
+setText($DD8, __TEXTPROCESSDD8)
+
+__TEXTPROCESSDD9:
+#incbin ".TextEntries\text_buildfileMercenaryDescription.fetxt.dmp"
+setText($DD9, __TEXTPROCESSDD9)
+
+__TEXTPROCESSDDA:
+#incbin ".TextEntries\text_buildfileChampionName.fetxt.dmp"
+setText($DDA, __TEXTPROCESSDDA)
+
+__TEXTPROCESSDDB:
+#incbin ".TextEntries\text_buildfileChampionDescription.fetxt.dmp"
+setText($DDB, __TEXTPROCESSDDB)
+
+__TEXTPROCESSDDC:
+#incbin ".TextEntries\text_buildfileMyrmidonName.fetxt.dmp"
+setText($DDC, __TEXTPROCESSDDC)
+
+__TEXTPROCESSDDD:
+#incbin ".TextEntries\text_buildfileMyrmidonDescription.fetxt.dmp"
+setText($DDD, __TEXTPROCESSDDD)
+
+__TEXTPROCESSDDE:
+#incbin ".TextEntries\text_buildfileDreadfighterName.fetxt.dmp"
+setText($DDE, __TEXTPROCESSDDE)
+
+__TEXTPROCESSDDF:
+#incbin ".TextEntries\text_buildfileDreadfighterDescription.fetxt.dmp"
+setText($DDF, __TEXTPROCESSDDF)
+
+__TEXTPROCESSDE0:
+#incbin ".TextEntries\text_buildfileThiefName.fetxt.dmp"
+setText($DE0, __TEXTPROCESSDE0)
+
+__TEXTPROCESSDE1:
+#incbin ".TextEntries\text_buildfileThiefDescription.fetxt.dmp"
+setText($DE1, __TEXTPROCESSDE1)
+
+__TEXTPROCESSDE2:
+#incbin ".TextEntries\text_buildfileRogueName.fetxt.dmp"
+setText($DE2, __TEXTPROCESSDE2)
+
+__TEXTPROCESSDE3:
+#incbin ".TextEntries\text_buildfileRogueDescription.fetxt.dmp"
+setText($DE3, __TEXTPROCESSDE3)
+
+__TEXTPROCESSDE4:
+#incbin ".TextEntries\text_buildfileFighterName.fetxt.dmp"
+setText($DE4, __TEXTPROCESSDE4)
+
+__TEXTPROCESSDE5:
+#incbin ".TextEntries\text_buildfileFighterDescription.fetxt.dmp"
+setText($DE5, __TEXTPROCESSDE5)
+
+__TEXTPROCESSDE6:
+#incbin ".TextEntries\text_buildfileWarriorName.fetxt.dmp"
+setText($DE6, __TEXTPROCESSDE6)
+
+__TEXTPROCESSDE7:
+#incbin ".TextEntries\text_buildfileWarriorDescription.fetxt.dmp"
+setText($DE7, __TEXTPROCESSDE7)
+
+__TEXTPROCESSDE8:
+#incbin ".TextEntries\text_buildfileBrigandName.fetxt.dmp"
+setText($DE8, __TEXTPROCESSDE8)
+
+__TEXTPROCESSDE9:
+#incbin ".TextEntries\text_buildfileBrigandDescription.fetxt.dmp"
+setText($DE9, __TEXTPROCESSDE9)
+
+__TEXTPROCESSDEA:
+#incbin ".TextEntries\text_buildfilePirateName.fetxt.dmp"
+setText($DEA, __TEXTPROCESSDEA)
+
+__TEXTPROCESSDEB:
+#incbin ".TextEntries\text_buildfilePirateDescription.fetxt.dmp"
+setText($DEB, __TEXTPROCESSDEB)
+
+__TEXTPROCESSDEC:
+#incbin ".TextEntries\text_buildfileCorsairName.fetxt.dmp"
+setText($DEC, __TEXTPROCESSDEC)
+
+__TEXTPROCESSDED:
+#incbin ".TextEntries\text_buildfileCorsairDescription.fetxt.dmp"
+setText($DED, __TEXTPROCESSDED)
+
+__TEXTPROCESSDEE:
+#incbin ".TextEntries\text_buildfileArmorknightName.fetxt.dmp"
+setText($DEE, __TEXTPROCESSDEE)
+
+__TEXTPROCESSDEF:
+#incbin ".TextEntries\text_buildfileArmorknightDescription.fetxt.dmp"
+setText($DEF, __TEXTPROCESSDEF)
+
+__TEXTPROCESSDF0:
+#incbin ".TextEntries\text_buildfileGeneralName.fetxt.dmp"
+setText($DF0, __TEXTPROCESSDF0)
+
+__TEXTPROCESSDF1:
+#incbin ".TextEntries\text_buildfileGeneralDescription.fetxt.dmp"
+setText($DF1, __TEXTPROCESSDF1)
+
+__TEXTPROCESSDF2:
+#incbin ".TextEntries\text_buildfileArcherName.fetxt.dmp"
+setText($DF2, __TEXTPROCESSDF2)
+
+__TEXTPROCESSDF3:
+#incbin ".TextEntries\text_buildfileArcherDescription.fetxt.dmp"
+setText($DF3, __TEXTPROCESSDF3)
+
+__TEXTPROCESSDF4:
+#incbin ".TextEntries\text_buildfileSniperName.fetxt.dmp"
+setText($DF4, __TEXTPROCESSDF4)
+
+__TEXTPROCESSDF5:
+#incbin ".TextEntries\text_buildfileSniperDescription.fetxt.dmp"
+setText($DF5, __TEXTPROCESSDF5)
+
+__TEXTPROCESSDF6:
+#incbin ".TextEntries\text_buildfileOutlawName.fetxt.dmp"
+setText($DF6, __TEXTPROCESSDF6)
+
+__TEXTPROCESSDF7:
+#incbin ".TextEntries\text_buildfileOutlawDescription.fetxt.dmp"
+setText($DF7, __TEXTPROCESSDF7)
+
+__TEXTPROCESSDF8:
+#incbin ".TextEntries\text_buildfileHighwaymanName.fetxt.dmp"
+setText($DF8, __TEXTPROCESSDF8)
+
+__TEXTPROCESSDF9:
+#incbin ".TextEntries\text_buildfileHighwaymanDescription.fetxt.dmp"
+setText($DF9, __TEXTPROCESSDF9)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT

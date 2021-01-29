@@ -32,6 +32,10 @@ ALIGN 4
 //Engine Hacks
 #include "Engine Hacks/Master Hack Installer.event"
 #include "Engine Hacks/Bonus Effectiveness.event"
+//#include "Engine Hacks/StatScreenBlink/SSBlink.event"
+#include "Engine Hacks/LazberianTurnFlow/LazberianTurnFlow.event"
+#include "Engine Hacks/LazberianTurnFlow/LTF-Internals.event"
+//#include "Engine Hacks/LazberianBattleFlow/LazberianBattleFlow.event"
 
 //Maps
 ALIGN 4
